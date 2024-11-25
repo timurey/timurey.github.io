@@ -5,16 +5,102 @@ date: 2020-10-16 15:23:31
 comments: false
 ---
 
-严肃的长文同步发布到少数派。[![文章阅读量超 220K](https://img.shields.io/badge/dynamic/json?color=FAE8E0&labelColor=B6E2D3&label=%E6%96%87%E7%AB%A0%E8%A2%AB%E9%98%85%E8%AF%BB&query=$.data.article_view_count&suffix=%20%E6%AC%A1&url=https://sspai.com/api/v1/user/slug/info/get?slug=aw0luepf&style=for-the-badge&cacheSeconds=86400&logo=data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+PGRlZnM+PHN0eWxlLz48L2RlZnM+PHBhdGggZD0iTTczOS44MyAyNjIuODVjNC41NS0uODQgOS4yNy0uNjkgMTMuODctLjMgNy44NSAyLjUzIDEzLjk5IDguOTYgMTYuOTIgMTYuNTggMS41OCA2LS4wOSAxMi4yMS0uMzcgMTguMjctMS45OSA2LjAzLTIuNjIgMTIuMzYtMi44NyAxOC42Ny0xLjAzIDUuMjYtMS4yMiAxMC42MS0uOTIgMTUuOTUtMS4wOS0xLjItMS4yNy0yLjg1LTEuNDItNC4zOC43NyAxMC4zMS03LjYxIDE5LjgxLTE3Ljc2IDIwLjkxLTcuMjcgMi4xOC0xNC43OCAzLjQ1LTIyLjM0IDQuMS0xMC4zMyAxLjcyLTIwLjUxIDQuNTctMzEuMDIgNS4wMi03LjAxLjU4LTEzLjU1IDMuNTgtMjAuNjEgMy43NC03LjAxLjM4LTEzLjY2IDIuNjItMjAuNDUgNC4xMS42MiAzLjguNDYgNy42NS40MiAxMS40OS4wMiA1Ni42NiAwIDExMy4zMy4wMSAxNjkuOTkuMDkgMjEuMzUtLjIxIDQyLjcxLjE5IDY0LjA2IDIuMTUgMTUuMTQgOC43OCAyOS4xMiAxNS45NCA0Mi40OSAzLjQxIDYuOCA2Ljk3IDEzLjUzIDEwLjc3IDIwLjE0IDUuMjEgMTEuNzIgMTEuODEgMjIuNzYgMTcuNDYgMzQuMjcgNC4xNCA3LjQ0IDcuNTMgMTUuMjcgMTEuNzEgMjIuNjkgNC4wNyA5LjEyIDkuNjIgMTcuNTIgMTMuMjEgMjYuODYgMi4zMyA1LjgyLS4wNiAxMi4xNy0zLjA5IDE3LjI1LTMuNjYgNC42MS05LjQyIDcuNzctMTUuMzkgNy42Ny0xNi43Mi0uMDEtMzMuNDMtLjAyLTUwLjE1LjAyLTQuNTcuMDMtOS40NC0xLjI3LTEyLjYxLTQuNzQtNC45My00LjQ5LTcuMjktMTAuODQtMTAuNjktMTYuNDEtOC4xLTE0LjczLTE1LjM4LTI5Ljg4LTIzLjctNDQuNDgtNy4yOC0xMy43Mi0xNC40NC0yNy41MS0yMi4wMy00MS4wNS01LjE2LTEwLjUtMTEuODYtMjAuNDEtMTQuNTgtMzEuOTUtMi4yMy03LjA3LTMuMDYtMTQuNDItMy43LTIxLjc3LS4xLTgwLjQzLjA4LTE2MC44Ny0uMDktMjQxLjI5LTMuMTctMS4yNi02LjY4LjIzLTkuOTQuNTItOS40Ny42NC0xOC42IDMuNjYtMjguMDcgNC4zMy01LjU2Ljg2LTExLjIyIDEuMzMtMTYuNTkgMy4xLTcuNSAyLjMzLTE1LjU2IDEuMS0yMy4wNCAzLjQ3LTcuMzggMi40OC0xNS4yNiAyLjM5LTIyLjg0IDMuOS0xMC40NiAyLjM1LTIxLjEgMy43MS0zMS42NCA1LjU4LS4wMSAxMDkuNDYuMDIgMjE4LjkzLS4wMiAzMjguMzkuMDggMTAuODEtOC4wMSAxOS4yNC0xNi4zNCAyNS05LjkzIDYuNDUtMTkuOTQgMTIuNzgtMjkuNjUgMTkuNTctMy4zIDIuMDEtNi41OSA0LjA5LTEwLjE1IDUuNjQtOS40NyAyLjMzLTIwLjAzLTEuODItMjUuNDgtOS44OS0xLjc2LTMuOTYtMy45My03Ljk3LTQuMzMtMTIuMzUtLjA2LTExNC4wMi4wNy0yMjguMDUtLjA2LTM0Mi4wOC01LjEzLjE1LTkuODcgMi4zNi0xNC45NiAyLjc4LTUuMzUgMS4wNi0xMC45Ljc2LTE2LjE1IDIuMzgtNS4wMSAxLjU1LTEwLjMgMS43My0xNS40NiAyLjQ4LTYuMTEuMTYtMTEuNjkgMy4xNC0xNy44MSAzLjE2LTcuMDIgMS41Ni0xNC4yNCAxLjc0LTIxLjIzIDMuNDYtNi40Ny42My0xMi45NyA0LTE5LjQ3IDEuNjQtNi43OS0yLjE0LTEzLjE5LTYuNzctMTUuNjQtMTMuNjktMy4yNC02LjAyLTIuNi0xMy4yNi0uNjktMTkuNiAxLjcxLTYuMDYgMS0xMi40MyAyLjE0LTE4LjU3LjU4LTMuOTEuMTMtNy45NCAxLjI3LTExLjc4IDEuMzQtNC40NSAxLjU5LTkuNDQgNC42NC0xMy4xNyAyLjg2LTMuNTMgNi4xMi03LjE0IDEwLjctOC4zMSA1LjM4LTIuNjEgMTEuNDMtMi41OSAxNy4yMy0zLjQ2IDE1LjItMi40NSAzMC4zOC01LjA4IDQ1LjU4LTcuNTYgOS4wNy0yLjQ5IDE4LjY0LTIuMjggMjcuNzEtNC43OSA4LjQ0LTIuMjIgMTcuMjQtMi4yNSAyNS42OS00LjM0IDYuMzEtLjY0IDEyLjM1LTIuNzkgMTguNzEtMy4wNiA1LjU3LS43NSAxMS4xNy0xLjUyIDE2LjYyLTIuOTcgOC4wOC0xLjM3IDE2LjQtMS42MyAyNC4yOS00LjA1IDcuMDUtMS43OCAxNC40Mi0xLjcyIDIxLjUyLTMuMjQgNC4xNS0xLjIxIDguNDgtMS40IDEyLjczLTIuMDMgNi42NC0xLjYyIDEzLjQtMi43MiAyMC4yLTMuMzkgNC40Ni0uMjcgOC41LTIuNDUgMTIuOTQtMi45MiA1Ljg0LS43MSAxMS45My0uNDUgMTcuNDYtMi44IDguNjYtMS45NyAxNy44Mi0xLjIzIDI2LjMyLTQuMSAxMC41OS0yLjM4IDIxLjU1LTIuNzMgMzIuMTEtNS4zMSA4LjAzLTIuNjggMTYuNy0xLjY2IDI0Ljc4LTQuMTQgOC45NS0yLjY0IDE4LjQ2LTIuMjkgMjcuNDUtNC43OSA1Ljk4LTEuMDMgMTEuOTMtMi4yNiAxOC0yLjU1IDEzLjAxLTIuNzcgMjYuMTgtNC43NSAzOS4zNS02LjY5IDYuMzctMS44OCAxMi45NS0yLjk2IDE5LjU5LTMuMzQgNS41My0uMzYgMTAuNzYtMi4zMyAxNi4yNS0zLjA1IDkuNzctMi4yNCAyMC4wMi0yLjA0IDI5LjU3LTUuMjl6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](https://sspai.com/u/aw0luepf/posts)
+**Meshtastic 中国**是一个开放的社区，致力于构建一个使用 470-510 MHz 频段的太阳能驱动 Meshtastic 无线电台网状网络。这种网络是一种去中心化的通信解决方案，能够在没有互联网、电网或基站支持的情况下，实现区域范围内的文本消息传递。Meshtastic 的目标是为中国的社区、紧急事件和远程通信提供一个高效、开放且可靠的通信平台。
 
-记录日常生活、游记和技术文章。
+[立即加入网络](#)
 
-2009 年开始使用 Blogger，之后很长时间没写博客。近年，重启博客，源码保存在 Github，部署于 Netlify。
+## 关于 Meshtastic 中国
 
-## 社交媒体
+### 什么是 Meshtastic？
 
-- GitHub：[hayschan](https://github.com/hayschan)
-- 少数派：[nozomi](https://sspai.com/u/aw0luepf/posts)
-- 即刻：[Nozomi](https://web.okjike.com/u/817011F5-F93E-49F1-BF82-669003B66ECC)
-- 📧 电邮：[blog@haysc.tech](mailto:blog@haysc.tech)
+Meshtastic 是一种基于 LoRa 协议的开源无线通信技术，旨在实现低功耗、长距离的通信。每个 Meshtastic 设备都可以作为一个节点，发送和接收消息，同时中继其他节点的消息，从而构建一个覆盖范围广泛的网状网络。
 
+在中国，Meshtastic 设备使用的是**470-510 MHz ISM 频段**，这是一种开放的频率范围，无需特别的许可即可使用。Meshtastic 设备既可以独立运行，也可以通过蓝牙连接到智能手机，从而与网络中的其他用户进行通信。
+
+## Meshtastic 的法律合规性
+
+对于任何无线电通信设备，合法性始终是一个重要问题。Meshtastic 设备在中国完全合法，原因如下：
+
+1.**使用合法的频率范围** 
+   Meshtastic 设备运行在 470-510 MHz 频段，这属于中国工信部规定的合法 ISM（工业、科学与医疗）频段。这一频段是 LoRa 协议在中国广泛使用的主要频率范围，符合相关法规。
+
+2.**功率远低于监管标准** 
+   Meshtastic 设备的发射功率极低，通常在 100 毫瓦（mW）或以下。根据中国无线电管理规定，这样的低功率设备不会进入受监管的功率范围，完全符合国家相关标准。
+
+通过上述特点，Meshtastic 不仅在技术上先进，同时也在法律上完全合规，用户可以放心使用。
+
+## 为什么要建立 Meshtastic 中国网络？
+
+#### 1.**应急通信的保障**
+在自然灾害、停电或网络中断的情况下，Meshtastic 网络可以提供关键的通信支持。用户可以通过这个网络发布求助信息、共享资源或向家人朋友报平安。特别是在中国的一些偏远地区，这种独立于传统基础设施的通信方式尤为重要。
+
+#### 2.**技术探索与创新**
+Meshtastic 网络完全开源，任何人都可以研究其技术原理、开发新功能或扩展网络。这种去中心化、开放的特性不仅支持个人技术爱好者的探索，也为教育和研究机构提供了实践的可能性。
+
+#### 3.**增强社区沟通**
+通过 Meshtastic 网络，用户可以方便地发布公告、组织活动或与邻居实时交流。无论是日常生活中的协作还是兴趣小组的讨论，这种去中心化的网络都能为社区提供一个开放的交流平台。
+
+## Meshtastic 如何运作？
+
+Meshtastic 设备通过 LoRa 协议进行通信，具体过程如下：
+
+1.**使用 470-510 MHz 频段通信** 
+   Meshtastic 设备通过 470-510 MHz 频段发送和接收数据，这种频率适合长距离、低功耗的通信。
+
+2.**节点中继功能** 
+   每个设备既是一个通信节点，也是一个中继站，可以将接收到的消息传递给其他设备，从而扩大网络覆盖范围。
+
+3.**端到端加密** 
+   Meshtastic 支持端到端加密，确保私人消息的安全性。同时，用户可以选择发送公开的广播消息。
+
+4.**太阳能供电与可移动性** 
+   对于部署在户外的节点，可以使用太阳能板为设备供电，确保长期运行；而室内节点则可使用 USB 供电。
+
+5.**开放的用户界面** 
+   用户可以通过 Meshtastic 智能手机应用（支持 iOS 和 Android）与设备交互，配置网络和发送消息。
+
+## Meshtastic 的主要功能
+
+1.**公开广播消息** 
+   通过主频道发送公开消息，所有在网络中的用户都能看到。这类似于社交媒体上的公共帖子。
+
+2.**私密群聊** 
+   创建次频道，与指定用户组进行加密通信。只有拥有加密密钥的用户才能加入频道。
+
+3.**点对点加密通信** 
+   直接向其他用户发送加密的私人消息，确保通信的安全性。
+
+4.**位置共享（可选）** 
+   用户可以选择启用位置信息共享功能，将自己的实时位置显示在网络中的其他用户的地图上。
+
+5.**全球连接** 
+   如果本地网络连接了 MQTT 网关，用户可以通过互联网与全球的其他 Meshtastic 网络通信，甚至发送加密消息到其他地区。
+
+6.**传感器集成** 
+   用户可以将外部传感器接入设备，用于采集环境数据（如温度、湿度、气压等），从而将 Meshtastic 设备变成一个小型的环境监测站。
+
+## 如何加入 Meshtastic 中国？
+
+1.**获取设备** 
+   - 购买或组装 Meshtastic 设备，例如 [LilyGO T-Beam](https://example.com/t-beam) 或 [LilyGO T-Echo](https://example.com/t-echo)。
+
+2.**根据场景选择供电方式** 
+   - 户外节点建议使用太阳能板和电池供电系统，确保设备能够长期稳定运行。  
+   - 室内节点可以直接使用 USB 供电适配器。
+
+3.**下载应用程序** 
+   - 在您的智能手机上安装 Meshtastic 应用程序（适用于 iOS 和 Android）。
+
+4.**配置设备** 
+   - 使用蓝牙将设备连接到手机，并通过应用程序进行设置。
+
+5.**加入网络或创建新网络** 
+   - 完成配置后，您可以加入现有的 Meshtastic 网络，或者创建一个新的网络，与其他用户实时通信。
+
+## 社区支持与资源
+
+我们提供丰富的资源，帮助您更好地了解和使用 Meshtastic：
+
+- [Meshtastic 入门教程](#)
+- [如何搭建自己的网状网络](#)
+- [技术文档与开发者指南](#)
