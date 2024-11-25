@@ -1,0 +1,1 @@
+hexo.extend.helper.register('open_graph', require('./open_graph'));
