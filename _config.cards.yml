@@ -32,11 +32,11 @@ head:
     fb_app_id: 
 
   # 自定义 head
-  custom_head: 
-    - '<meta name="google-site-verification" content="AKeq5LZL52x_f5y2XxMlqlHQFXQtZ0hHp1DB2A02C4I">'
-    - '<meta name="baidu-site-verification" content="code-gG68rLe4QQ">'
-    - '<meta name="msvalidate.01" content="C9554EA2B967232BFF6F4232BB69C349">'
-    - '<meta name="yandex-verification" content="e73fd2932c2fd38d" />'
+  # custom_head: 
+    # - '<meta name="google-site-verification" content="AKeq5LZL52x_f5y2XxMlqlHQFXQtZ0hHp1DB2A02C4I">'
+    # - '<meta name="baidu-site-verification" content="code-gG68rLe4QQ">'
+    # - '<meta name="msvalidate.01" content="C9554EA2B967232BFF6F4232BB69C349">'
+    # - '<meta name="yandex-verification" content="e73fd2932c2fd38d" />'
 
 
 
@@ -48,7 +48,7 @@ head:
 navbar: 
 
   # 左侧名称显示
-  sitename: Nozomi 自留地
+  sitename: Meshtastic 中国社区
   
   # 右侧站内导航链接
   menu: 
@@ -70,7 +70,7 @@ navbar:
 cover: 
 
   # 显示在最上方 cover 处的站点名称
-  sitename: 'Nozomiの圈地'
+  sitename: 'Meshtastic 中国社区'
 
   # 若 avatar 配置不为空，则优先使用 avatar 覆盖 sitename
   avatar: https://cdn.jsdelivr.net/gh/hayschan/oss@main/2021/10/apple-touch-icon-tuya-DmRf6R.webp
