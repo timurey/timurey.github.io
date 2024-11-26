@@ -28,7 +28,7 @@ Meshtastic 是一种基于 LoRa 技术的离网通信平台。它通过低成本
 
 在安装完成后，接下来需要配置设备的设置。你可以通过以下几种方式完成配置：
 
-1. 通过 WiFi 或蓝牙将节点与电脑连接后，使用官方提供的 Web 客户端界面进行设置。这一界面需要 Chromium 内核浏览器（比如 Google Chrome）才能运行。
+1. 通过 WiFi 或蓝牙将节点与电脑连接后，使用官方提供的 [Web 客户端界面](https://client.meshtastic.org/) 进行设置。这一界面需要 Chromium 内核浏览器（比如 Google Chrome）才能运行。
 2. 如果使用手机，你可以从安卓或 iOS 的应用商店下载 Meshtastic 官方应用程序。使用安卓或苹果设备时，需通过蓝牙配对节点与手机。
    1. iOS Meshtastic App Store: [链接](https://apps.apple.com/us/app/meshtastic/id1586432531)。支持 iPhone、iPad、Mac。
    2. 安卓 Meshtastic：[Google Play 链接](https://play.google.com/store/apps/details?id=com.geeksville.mesh&referrer=utm_source%3Dgithub-android-readme)、[F-Droid 链接](https://f-droid.org/packages/com.geeksville.mesh/)
