@@ -43,7 +43,7 @@ Lilygo T-Deck 是一款集成了 Wi-Fi、蓝牙及扩展接口的物联网开发
 #### 3. 安装 M5Stick-Launcher 固件
 - 打开以下网址，使用在线工具刷入 M5Stick-Launcher 固件：  
   [M5Stick-Launcher 固件在线安装](https://bmorcelli.github.io/M5Stick-Launcher/flash0.html)
-- 如果无法科学上网，可以从百度网盘下载 M5Stick-Launcher 固件，并通过离线工具（如 ESP Web Tool）刷入。
+- 如果无法科学上网，可以从百度网盘下载 M5Stick-Launcher 固件，并通过离线工具（如 ESP Web Tool）刷入。链接在文末。
 - 固件安装完成后，设备会自动重启进入 M5Stick-Launcher 界面。如果屏幕显示倒置，可通过 SD 卡中的配置文件修改方向。
 
 #### 4. 拷贝 Meshtastic 固件到 SD 卡
