@@ -54,6 +54,8 @@ navbar:
   menu: 
     - name: 关于
       url: https://chinamesh.netlify.app/intro-meshtastic-china/
+    - name: 入门指南
+      url: https://chinamesh.netlify.app/introduction/
     - name: 归档
       url: /archives/
     # - name: 说说
