@@ -1,6 +1,6 @@
 ---
 title: 欢迎加入 Meshtastic 中国社区
-date: 2024-11-25
+date: 2024-11-25 13:17:20
 description: Meshtastic 中国致力于建立一个基于 470-510 MHz 频段的去中心化网状通信网络，无需互联网、电网或基站即可实现公开或私密通信。本文详细介绍了 Meshtastic 的工作原理、功能特点、法律合规性和如何加入。
 categories:
  - Meshtastic
