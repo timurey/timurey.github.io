@@ -2,7 +2,7 @@
 title: Meshtastic：像五岁小朋友一样解释它的原理
 date: 2024-11-25
 description: 用纸条传递的简单故事，帮助你理解如何利用 Meshtastic。
-thumbnail: https://chinamesh.netlify.app/flash-meshtastic-firmware-ebyte-eora-s3/desola-lanre-ologun-BVr3XaBiWLU-unsplash.webp
+thumbnail: https://chinamesh.netlify.app/explain-like-im-five/desola-lanre-ologun-BVr3XaBiWLU-unsplash.webp
 categories:
  - Meshtastic
 tags:
