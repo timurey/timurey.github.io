@@ -13,11 +13,11 @@ tags:
 
 ## 正式域名
 
-我们的官网现已正式迁移到新域名：[https://meshcn.net/](https://meshcn.net/)。新域名更简洁、更好记，也体现了我们社区专注于 Meshtastic 的使命。欢迎大家收藏并多多访问！
+我们的官网现已正式迁移到新域名：[meshcn.net](https://meshcn.net/)。新域名更简洁、更好记，也体现了我们社区专注于 Meshtastic 的使命。欢迎大家收藏并多多访问！
 
 我们现已将网页内容部署在 Cloudflare Pages，听说这个在国内的网络环境下表现非常优秀。希望大家能有更快、更稳定的访问体验。如果你觉得网站加载速度变快了，欢迎告诉我们！😉
 
-为了让更多技术爱好者参与到社区的建设中，我们已将网站的所有文章开源，托管在 GitHub 上：[https://github.com/chinamesh/meshtastic-china-www](https://github.com/chinamesh/meshtastic-china-www)。  
+为了让更多技术爱好者参与到社区的建设中，我们已将网站的所有文章开源，托管在 GitHub 上：[chinamesh/meshtastic-china-www](https://github.com/chinamesh/meshtastic-china-www)。  
 
 你不仅可以阅读最新内容，还可以提交自己的文章，与大家分享你的经验与心得。只要你热爱 Meshtastic，哪怕是一篇简单的入门指南，我们都非常欢迎你的贡献！
 
