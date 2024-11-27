@@ -349,7 +349,7 @@ footer:
 
   # 自定义页脚，支持 markdown
   custom_text: 
-    - '[RSS](https://blog.haysc.tech/feed.xml)'
+    - '[RSS](https://meshcn.net/feed.xml)'
 
 
 
