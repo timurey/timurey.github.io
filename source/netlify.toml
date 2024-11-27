@@ -1,3 +1,9 @@
+[[redirects]]
+  from = "/*"
+  to = "https://meshcn.net/:splat"
+  status = 301
+  force = true
+
 # [[redirects]]
 #   from = "https://io-oi.netlify.com/*"
 #   to = "https://io-oi.me/:splat"
