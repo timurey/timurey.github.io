@@ -53,9 +53,9 @@ navbar:
   # 右侧站内导航链接
   menu: 
     - name: 关于
-      url: https://chinamesh.netlify.app/intro-meshtastic-china/
+      url: https://meshcn.net/intro-meshtastic-china/
     - name: 入门指南
-      url: https://chinamesh.netlify.app/introduction/
+      url: https://meshcn.net/introduction/
     - name: 归档
       url: /archives/
     # - name: 说说
