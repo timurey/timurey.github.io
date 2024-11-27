@@ -43,7 +43,7 @@ Meshtastic 是一种基于 LoRa 技术的离网通信平台。它通过低成本
 
 关于角色设定，大部分情况来说，你应该选择角色为 `CLIENT`；如果在移动的交通工具上，比如汽车、飞机、轮船，应该选择角色为 `CLIENT_MUTE`；只有极少数情况，当你在方圆几百公里最高点时，才应选择 `ROUTER`。
 
-如果你想更深入了解节点角色的具体功能和用途，可以参考 [Meshtastic 节点角色指南](https://pole1.co.uk/meshtastic-roles/)。
+如果你想更深入了解节点角色的具体功能和用途，可以参考 [《Meshtastic 角色全面解析：CLIENT、ROUTER、REPEATER 的最佳使用场景》](https://meshcn.net/how-to-choose-roles/)。
 
 ## 提高通信范围的建议
 
