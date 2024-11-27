@@ -1,7 +1,7 @@
 ---
 title: 【公告】Meshtastic 中国社区正式成立
 date: 2024-11-27 17:54:20
-description: 用纸条传递的简单故事，帮助你理解如何利用 Meshtastic。
+description: Meshtastic 中国社区的最新突破：新域名、博客开源、网站部署到 Cloudflare Pages，以及社区成员突破 40 人。加入我们，一起拓展中国的 Meshtastic 网络！
 thumbnail: https://meshcn.net/announcement-migration-new-domain-meshcn-net/patrick-fore-5YU0uZh43Bk-unsplash.webp
 categories:
  - 公告
