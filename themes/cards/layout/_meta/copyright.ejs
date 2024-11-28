@@ -2,14 +2,7 @@
     <div class="post__license">
         <p>
             <strong><%= __('post.copyright.author') %></strong>
-            <% if (page.copyright && page.copyright.author && page.copyright.author.name) { %>
-                <%= page.copyright.author.name %>
-                <% if (page.copyright.author.url) { %>
-                    (<a href="<%= page.copyright.author.url %>"><%= page.copyright.author.url %></a>)
-                <% } %>
-            <% } else { %>
-                <%= theme.meta.author.name %>
-            <% } %>
+            <%= page.author && page.author.name ? page.author.name : theme.meta.author.name %>
         </p>
         <p>
             <strong>
