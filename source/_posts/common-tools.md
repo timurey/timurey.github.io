@@ -15,7 +15,7 @@ tags:
 
 当你开始使用 Meshtastic 构建自己的无线 Mesh 网络时，了解网络中其他节点的位置和状态是非常重要的。[meshmap.net](https://meshmap.net/) 提供了一个接近实时的地图，展示了通过官方 Meshtastic MQTT 服务器接收到的所有位置报告节点。
 
-![Meshmap.net screenshot in China for Meshtastic nodes](./common-tools/meshmap-net-screenshot-china.png)
+![Meshmap.net screenshot in China for Meshtastic nodes](./common-tools/meshmap-net-screenshot-china.webp)
 
 ### 核心功能：
 
@@ -29,7 +29,7 @@ tags:
 
 固件的安装和更新是使用 Meshtastic 设备的第一步。许多新手可能在刷机过程中遇到一些问题，不知道如何安全地为设备刷入最新的固件。为此，Meshtastic 提供了一个非常方便的在线刷写工具 [flasher.meshtastic.org](https://flasher.meshtastic.org/)，它可以帮助你轻松完成这一过程。
 
-![Meshtastic official device software flasher](./common-tools/Meshtastic-official-flasher.png)
+![Meshtastic official device software flasher](./common-tools/Meshtastic-official-flasher.webp)
 
 flasher.meshtastic.org 是一个完全基于 Web 的工具，意味着你无需安装任何额外的软件。只要打开浏览器并连接你的设备，就可以开始刷机。这对于初学者来说尤其方便，不需要复杂的配置或命令行操作。
 
@@ -54,7 +54,7 @@ Meshtastic 是一个全球性的开源项目，而在中国，我们有一个专
 
 如果你想要规划一个稳定的 Meshtastic 网络，信号覆盖范围的预测和优化是不可或缺的。[meshplanner.mpatrick.dev](https://meshplanner.mpatrick.dev/) 提供的信号覆盖规划工具可以帮助你根据不同的地理位置、天线设置和设备参数，预测网络的覆盖范围和信号强度。
 
-![Meshplanner screenshot of signal analysis prediction in China](./common-tools/meshplanner-meshtastic-signal-coverage-planner-screenshot-china.png)
+![Meshplanner screenshot of signal analysis prediction in China](./common-tools/meshplanner-meshtastic-signal-coverage-planner-screenshot-china.webp)
 
 这个工具使用了 `ITM` / `Longley-Rice` 模型来预测无线电信号的传播范围，考虑了多种影响因素，比如地形、发射功率和天线增益等。你只需输入你的地理位置，并选择相应的设备和天线设置，工具便会生成一张信号强度地图，帮助你预估网络的覆盖范围。
 
