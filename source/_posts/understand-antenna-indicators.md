@@ -1,6 +1,6 @@
 ---
 title: 解锁天线增益与驻波的奥秘：无线电信号的核心因素
-date: 2024-11-29 10:21:28
+date: 2024-11-28 10:21:28
 thumbnail: https://s2.loli.net/2024/11/28/jyvu28sHfbwolMO.jpg
 description: 无线电里没有黑魔法
 categories:
