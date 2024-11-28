@@ -17,8 +17,6 @@ tags:
 
 ![Meshmap.net screenshot in China for Meshtastic nodes](./common-tools/meshmap-net-screenshot-china.webp)
 
-
-
 `meshmap.net` 显示了全球范围内的 Meshtastic 节点，并且实时更新节点的位置数据。每分钟更新一次位置，确保网络状态始终是最新的。当一个节点超过 24 小时没有更新位置时，它将被自动从地图中移除。这样可以避免过时的节点信息干扰你对当前网络的理解。
 
 地图不仅展示了通过官方 MQTT 服务器上传的节点信息，还包括通过其他节点中继转发的设备。这意味着即使你没有直接接触某个节点，只要它通过其他设备间接连接到网络，你也能在地图上看到它的位置。这对于大规模部署 Meshtastic 网络或者检查你的设备是否在正确的区域非常有用。
@@ -50,7 +48,7 @@ Meshtastic 是一个全球性的开源项目，而在中国，我们有一个专
 
 在 meshcn.net 上，你可以找到从基础入门到高级使用的各类教程。无论你是刚接触 Meshtastic，还是希望优化你现有的设备设置，网站上都有详尽的步骤指南帮助你完成设备配置、固件安装、Mesh 网络搭建等操作。对于新手来说，这些教程将帮助你避免常见的错误，快速掌握 Meshtastic 的基本用法。
 
-## Meshtastic 信号覆盖规划工具 - [meshplanner.mpatrick.dev](https://meshplanner.mpatrick.dev/)
+## Meshtastic 信号覆盖规划工具 - [meshplanner](https://meshplanner.mpatrick.dev/)
 
 如果你想要规划一个稳定的 Meshtastic 网络，信号覆盖范围的预测和优化是不可或缺的。[meshplanner.mpatrick.dev](https://meshplanner.mpatrick.dev/) 提供的信号覆盖规划工具可以帮助你根据不同的地理位置、天线设置和设备参数，预测网络的覆盖范围和信号强度。
 
