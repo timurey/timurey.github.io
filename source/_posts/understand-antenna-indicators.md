@@ -77,7 +77,8 @@ VSWR=1时，这意味着所有的信号都被有效传输到天线并辐射出�
 
 用我们初中所学的例子：
 
-<img src="https://s2.loli.net/2024/11/28/lj9QIH2mJObdVGn.jpg" alt="power_balance.png" style="zoom:50%;" />
+
+![](./understand-antenna-indicators/power_balance.png)
 
 什么时候负载功率最大？答：当负载电阻与电源内阻相同时。同理天线也一样，但我们在设计天线或者购买天线的时候怎么知道发射端的阻抗是多少？
 
@@ -85,13 +86,15 @@ VSWR=1时，这意味着所有的信号都被有效传输到天线并辐射出�
 
 其实厂家们通常把阻抗设计到50欧姆，这算是行业的标准，如果不统一这会导致天线也不统一你需要有多个阻抗不同的天线。最主要的原因是50欧姆的同轴电缆性能处于中间位置（并不是工程师喜欢50欧姆）。损耗小的同轴电缆其特征阻抗分别是30欧姆和77欧姆。其中，30欧姆的同轴电缆可以传输的功率是最大的，77欧姆的同轴电缆传输信号的损耗是最小的。30欧姆和77欧姆的算术平均值为53.5欧，方便计算我们取50欧。
 
-<img src="https://s2.loli.net/2024/11/28/9sRIHuvb2oJQScq.jpg" alt="30-50-75.png" style="zoom:50%;" />
+
+![](./understand-antenna-indicators/30-50-75.png)
 
 接着我们回到驻波上，若并未完全匹配剩下的能量去哪了？由能量守恒定律可以知道能量不能凭空消失，天线未发射出去的能量是又返回到了发射端，**这就是为什么我们在未接入天线的时候不可发射信号！！！**此时根本没有负载能将能量“发泄”出去而是全部返回到了发射端。
 
 那么VSWR=1在实际情况为理想条件，大多数的情况为1.5左右，可以通过查表的方式判断我们的发射效率。例如VSWR=1.5时，我们的损耗功率为4%，也就是说发射端为100W，天线能辐射出去96W。
 
-<img src="https://s2.loli.net/2024/11/28/cbApXGZFdOPizQ4.jpg" alt="vswr.jpg" style="zoom:50%;" />
+
+![](./understand-antenna-indicators/vswr.jpg)
 
 ### 2.增益
 
@@ -99,11 +102,13 @@ VSWR=1时，这意味着所有的信号都被有效传输到天线并辐射出�
 
 那么什么是全向天线什么是定向天线？这个就是字面意思了。全向天线类似光源在源点光线360°的发射，定向天线可以类似于手电筒指在那个方向哪里就亮，后者很能理解出这是通过能量集中的方式。但为什么全向天线还有增益？根据能量守恒全向天线360°应该1W进，1W出呀，为什么这个表中全向天线增益是2dBi？这不是放大了一定的倍数么？
 
-<img src="https://s2.loli.net/2024/11/28/cbApXGZFdOPizQ4.jpg" alt="vswr.jpg" style="zoom:50%;" />
+
+![](./understand-antenna-indicators/vswr.jpg)
 
 确实是“放大了”，但所谓的360°我们是指的是**水平方向**的，现实中还有**垂直方向**的，我们可以看下图的方向图（b）类似一个苹果，能看到其实就是把垂直方向的能量集中到水平方向，故就导致“增大了”。
 
-<img src="https://s2.loli.net/2024/11/28/LlzNMGmvPEeOjJC.jpg" alt="01.jpg" style="zoom:60%;" />
+
+![](./understand-antenna-indicators/01.jpg)
 
 定向天线也是同理
 
@@ -111,6 +116,7 @@ VSWR=1时，这意味着所有的信号都被有效传输到天线并辐射出�
 >
 > **能量守恒！！！**
 
-<img src="https://s2.loli.net/2024/11/28/Szt4udDURlxinCh.jpg" alt="gain.png" style="zoom:50%;" />
+
+![](./understand-antenna-indicators/gain.png)
 
 所以说小时候动卫星锅，容易挨揍，是因为定向天线需要“瞄准”！！！

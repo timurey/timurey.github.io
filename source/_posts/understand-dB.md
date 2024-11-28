@@ -11,13 +11,16 @@ tags:
 author:
   name: "BH4ME"
 version: 1.0
+mathjax: true
 ---
 
 本文将详细介绍天线常见的单位dB，并用最通俗易懂的语言帮助你理解。
 
 ## 什么是dB？
 
-<img src="https://s2.loli.net/2024/11/28/RjlfWvb7mdSs1Gz.jpg" alt="20dBm.jpg" style="zoom:50%;" />
+
+![](./understand-dB/20dBm.jpg)
+
 
 在Meshtastic app里常有这一项，这具体是指的什么意思呢？其实这就是一种表示功率大小的单位。
 
@@ -113,9 +116,9 @@ version: 1.0
 
 ## 接下来你肯定也知道了这都是什么意思了！！！
 
-<img src="https://s2.loli.net/2024/11/28/DHCSZTsco8gkzFM.jpg" alt="ebyte.jpg" style="zoom:50%;" />
 
-<img src="https://s2.loli.net/2024/11/28/laxGjqFvgb6Qydz.jpg" alt="16dBm.jpg" style="zoom:50%;" />
+![](./understand-dB/ebyte.jpg)
 
-------
 
+
+![](./understand-dB/16dBm.jpg)
