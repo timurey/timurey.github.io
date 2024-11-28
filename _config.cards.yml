@@ -79,7 +79,7 @@ cover:
   
 # https://cdn.jsdelivr.net/gh/hayschan/oss@main/2021/10/android-icon-96x96-iSPzqK.png  
   # sitename/avatar 下方的一句话介绍
-  description: 礼失求诸野
+  description: 去中心化离线 LoRa 通信网络
 
 
 
@@ -179,7 +179,7 @@ meta:
 
   # 文章版权声明
   copyright: 
-    enable: false
+    enable: true
     
     # 在作者声明和永久链接之后，可以多行，支持 markdown
     custom_text:
@@ -198,7 +198,7 @@ comments:
 
   ## Disqus
   disqus:  
-    shortname: haysc
+    shortname: 
 
   ## DisqusJS  
   disqusjs: 
@@ -390,7 +390,7 @@ darkmode: false
 
 # Mermaid Diagrams
 mermaid: 
-  enable: false
+  enable: true
   options: 
 
 # ---------------------------------------------------------------
