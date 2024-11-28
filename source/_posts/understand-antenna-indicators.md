@@ -1,22 +1,20 @@
 ---
 title: 解锁天线增益与驻波的奥秘：无线电信号的核心因素
 date: 2024-11-29 10:21:28
-thumbnail:![title_ant.png](https://s2.loli.net/2024/11/28/jyvu28sHfbwolMO.jpg)
+thumbnail: https://s2.loli.net/2024/11/28/jyvu28sHfbwolMO.jpg
 description: 无线电里没有黑魔法
 categories:
  - Antenna
 tags:
  - Gain
  - VSWR
-autor: BH4ME
+author: BH4ME
 related_posts:
   - "从dB到dBm无线电信号的深入分析"
 version: 1.0
 ---
 
 我将从两个不同的方面去帮你理解增益、驻波和方向性。
-
-------
 
 ### 从定义出发
 

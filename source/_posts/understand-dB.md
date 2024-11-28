@@ -1,14 +1,14 @@
 ---
 title: 从dB到dBm无线电信号的深入分析
 date: 2024-11-28 23:15:20
-thumbnail:![](https://s2.loli.net/2024/11/28/ltjLTOzYySNid2o.png)
+thumbnail: https://s2.loli.net/2024/11/28/ltjLTOzYySNid2o.png
 description: 作为一名无线电爱好者你必须要知道！！！
 categories:
  - Antenna
 tags:
  - dB
  - dBw
-autor: BH4ME
+author: BH4ME
 version: 1.0
 ---
 
