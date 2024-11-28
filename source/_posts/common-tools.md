@@ -17,7 +17,7 @@ tags:
 
 ![Meshmap.net screenshot in China for Meshtastic nodes](./common-tools/meshmap-net-screenshot-china.webp)
 
-### 核心功能：
+
 
 `meshmap.net` 显示了全球范围内的 Meshtastic 节点，并且实时更新节点的位置数据。每分钟更新一次位置，确保网络状态始终是最新的。当一个节点超过 24 小时没有更新位置时，它将被自动从地图中移除。这样可以避免过时的节点信息干扰你对当前网络的理解。
 
