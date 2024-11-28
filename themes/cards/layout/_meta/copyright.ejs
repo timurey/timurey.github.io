@@ -1,7 +1,15 @@
 <% if (theme.meta.copyright.enable && page.copyright !== false) { %>
     <div class="post__license">
         <p>
-            <strong><%= __('post.copyright.author') %></strong><%= theme.meta.author.name %>
+            <strong><%= __('post.copyright.author') %></strong>
+            <% if (page.copyright && page.copyright.author && page.copyright.author.name) { %>
+                <%= page.copyright.author.name %>
+                <% if (page.copyright.author.url) { %>
+                    (<a href="<%= page.copyright.author.url %>"><%= page.copyright.author.url %></a>)
+                <% } %>
+            <% } else { %>
+                <%= theme.meta.author.name %>
+            <% } %>
         </p>
         <p>
             <strong>
