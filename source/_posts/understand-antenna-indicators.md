@@ -8,9 +8,8 @@ categories:
 tags:
  - Gain
  - VSWR
-author:
-  name: BH4ME
-  url: https://haysc.tech
+copyright:
+  author: BH4ME
 related_posts:
   - "从dB到dBm无线电信号的深入分析"
 ---
