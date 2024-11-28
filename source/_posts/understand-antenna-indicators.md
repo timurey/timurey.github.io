@@ -8,10 +8,11 @@ categories:
 tags:
  - Gain
  - VSWR
-author: BH4ME
+author:
+    name: BH4ME
+    url: https://haysc.tech
 related_posts:
   - "从dB到dBm无线电信号的深入分析"
-version: 1.0
 ---
 
 我将从两个不同的方面去帮你理解增益、驻波和方向性。
