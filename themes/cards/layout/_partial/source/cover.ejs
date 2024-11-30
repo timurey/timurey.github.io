@@ -3,7 +3,13 @@
     <div class="cover">
         <div class="cover__logo">
             <% if (theme.cover.avatar) { %>
-                <img no-lazy alt="author Image" class="cover__avatar" src="<%= url_for(theme.cover.avatar) %>">
+                <% if (theme.cover.avatar.endsWith('.mp4') || theme.cover.avatar.endsWith('.webm')) { %>
+                    <video autoplay loop muted playsinline class="cover__avatar" style="pointer-events: none;">
+                        <source src="<%= url_for(theme.cover.avatar) %>" type="video/mp4">
+                    </video>
+                <% } else { %>
+                    <img no-lazy alt="author Image" class="cover__avatar" src="<%= url_for(theme.cover.avatar) %>">
+                <% } %>
             <% } else if (theme.cover.sitename) { %>
                 <h1><%= theme.cover.sitename %></h1>
             <% } else if (config.title) { %>
