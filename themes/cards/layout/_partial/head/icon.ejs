@@ -21,6 +21,9 @@
     <% if (theme.head.favicon.safari_pinned_tab) { %>
         <link rel="mask-icon" href="<%= url_for(theme.head.favicon.safari_pinned_tab) %>">
     <% } %>
+    <% if (theme.head.favicon.web_manifest) { %>
+        <link rel="manifest" href="<%= url_for(theme.head.favicon.web_manifest) %>">
+    <% } %>
 <% } else if (config.favicon) { %>
     <link rel="shortcut icon" type='image/x-icon' href="<%= url_for(config.favicon) %>">
 <% } %>

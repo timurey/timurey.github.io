@@ -21,6 +21,7 @@ head:
     apple_touch_icon: /images/apple-touch-icon.png
     # safari_pinned_tab: /images/safari-pinned-tab.svg
     icon_svg: /images/favicon.svg
+    web_manifest: /images/site.webmanifest
 
   # 社交分享链接
   opengraph: 
