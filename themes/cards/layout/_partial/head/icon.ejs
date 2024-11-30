@@ -12,6 +12,9 @@
     <% if (theme.head.favicon.large) { %>
         <link rel="icon" type="image/png" sizes="96x96" href="<%= url_for(theme.head.favicon.large) %>">
     <% } %>
+    <% if (theme.head.favicon.icon_svg) { %>
+        <link rel="icon" type="image/png" sizes="96x96" href="<%= url_for(theme.head.favicon.large) %>">
+    <% } %>
     <% if (theme.head.favicon.apple_touch_icon) { %>
         <link rel="apple-touch-icon" sizes="180x180" href="<%= url_for(theme.head.favicon.apple_touch_icon) %>">
     <% } %>
