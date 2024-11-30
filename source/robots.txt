@@ -3,5 +3,4 @@ Allow: /
 
 Disallow: /artitalk/
 
-Sitemap: https://blog.haysc.tech/sitemap.xml
-Sitemap: https://blog.haysc.tech/baidusitemap.xml
+Sitemap: https://meshcn.net/sitemap.xml
