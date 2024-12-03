@@ -354,7 +354,8 @@ footer:
 
   # 自定义页脚，支持 markdown
   custom_text: 
-    - '[RSS](https://meshcn.net/feed.xml)'
+    - '[RSS 订阅](https://meshcn.net/feed.xml)'
+    - '[加入社区群](/contact)'
 
 
 
