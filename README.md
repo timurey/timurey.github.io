@@ -2,7 +2,7 @@
 
 欢迎来到 Meshtastic China 中国社区网站的官方仓库！这个网站是 Meshtastic China 中国社区的核心平台，提供技术文章和交流。
 
-## 网站简介
+![](./asset/meshcn-net-website-meshtastic-china-screenshot.webp)
 
 **Meshtastic China** 网站是一个开放的社区平台，旨在为中国国内 Meshtastic 用户提供支持、信息和交流空间。网站包含了关于 Meshtastic 技术、使用指南以及技术支持的各类内容，是社区成员相互学习、协作创新的主要渠道。
 
