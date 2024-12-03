@@ -300,10 +300,10 @@ comments:
 
 analytics:
   google_site_id:
-  gtags_site_id: UA-66467516-5
+  gtags_site_id: 
   baidu_site_id: 
   cnzz_site_id: 
-  cloudflare_site_id: 6b6605e10e234fc8b7e069b0a0735fbc
+  cloudflare_site_id: 
   umami:
     id:
     url:
