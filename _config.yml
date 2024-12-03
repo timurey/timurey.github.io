@@ -122,7 +122,7 @@ sitemap:
   path: sitemap.xml
   rel: true
   tags: false
-  categories: true
+  categories: false
 
 # hexo_submit_urls_to_search_engine:
 #   submit_condition: count #链接被提交的条件，可选值：count | period 现仅支持count
