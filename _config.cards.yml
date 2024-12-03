@@ -59,6 +59,8 @@ navbar:
       url: https://meshcn.net/intro-meshtastic-china/
     - name: 入门指南
       url: https://meshcn.net/introduction/
+    - name: 联系我们
+      url: /contact
     - name: 归档
       url: /archives/
     # - name: 说说
