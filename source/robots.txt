@@ -1,6 +1,8 @@
 User-agent: *
-Allow: /
-
 Disallow: /artitalk/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /search/
+Disallow: /404/
 
 Sitemap: https://meshcn.net/sitemap.xml
