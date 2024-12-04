@@ -1,7 +1,7 @@
 ---
 title: 如何烧录 Meshtastic 固件到 Ebyte EoRa-S3-400TB
 date: 2024-11-26 11:15:20
-thumbnail: https://meshcn.net/flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.png
+thumbnail: https://meshcn.net/flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.webp
 description: 
 categories:
  - Meshtastic
@@ -33,7 +33,7 @@ tags:
 
 在页面的设备下拉菜单中，选择 `Ebyte EoRa-S3`。这一选项是专门为 Ebyte EoRa-S3 系列模块设计的，可以确保烧录过程顺利完成。
 
-![](./flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.png)
+![](./flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.webp)
 
 ### 第三步：选择固件版本
 
@@ -51,13 +51,13 @@ tags:
 
 在页面的烧录选项中，找到 **Full Erase and Install**。点击该选项以启用完整擦除功能，此时按钮会变成红色，表示已经激活此功能。启用该选项后，固件烧录过程将完全覆盖设备的存储空间，确保新的固件正常运行。
 
-![](./flash-meshtastic-firmware-ebyte-eora-s3/serial-flasher-screenshot-meshtastic.png)
+![](./flash-meshtastic-firmware-ebyte-eora-s3/serial-flasher-screenshot-meshtastic.webp)
 
 ### 第七步：选择串口并开始烧录
 
 点击页面中的 **Erase Flash and Install** 按钮，Chrome 浏览器将弹出一个 **Web Serial** 窗口。在弹出的窗口中，选择您的设备对应的串口（一般情况下只有一个选项可以选择）。完成串口选择后，工具将自动开始擦除设备上的现有数据并安装新的 Meshtastic 固件。
 
-![](./flash-meshtastic-firmware-ebyte-eora-s3/prompt-web-serial-meshtastic.png)
+![](./flash-meshtastic-firmware-ebyte-eora-s3/prompt-web-serial-meshtastic.webp)
 
 ## 烧录完成后的检查
 
