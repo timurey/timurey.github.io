@@ -354,8 +354,7 @@ footer:
 
   # 自定义页脚，支持 markdown
   custom_text: 
-    - '[RSS 订阅](https://meshcn.net/feed.xml)'
-    - '[加入社区群](/contact)'
+    - '[RSS 订阅](https://meshcn.net/feed.xml) | [加入社区群](/contact)'
     - '<a href="https://github.com/chinamesh/meshtastic-china-www" rel="nofollow">GitHub</a>'
 
 
