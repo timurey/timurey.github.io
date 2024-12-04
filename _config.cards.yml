@@ -396,7 +396,7 @@ darkmode: false
 
 # Mermaid Diagrams
 mermaid: 
-  enable: true
+  enable: false
   options: 
 
 # ---------------------------------------------------------------
