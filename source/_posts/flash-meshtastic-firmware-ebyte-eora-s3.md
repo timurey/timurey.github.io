@@ -1,7 +1,7 @@
 ---
 title: 如何烧录 Meshtastic 固件到 Ebyte EoRa-S3-400TB
 date: 2024-11-26 11:15:20
-thumbnail: https://meshcn.net/flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.webp
+thumbnail: https://meshcn.net/flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-scre   eenshot.webp
 description: 
 categories:
  - Meshtastic
@@ -22,6 +22,8 @@ tags:
 4. 可靠的网络连接。最好是启动了 “science” 上网工具。
 
 确保您的模块可以正常连接到电脑，并具备基础操作能力。
+
+> 需要的话，可以查看一下模块的 [原理图](./flash-meshtastic-firmware-ebyte-eora-s3/Ebyte-EoRa-PI-EoRa-S3-400TB-900TB-schematics-开发板原理图.pdf)
 
 ## 操作步骤
 
