@@ -38,6 +38,7 @@ tags:
 
 3. **设置正确的时区**
    - 大多数用户会选择通过 **Meshtastic应用程序** 来设置时区。在应用程序中，你可以在 **设置 -> 设备 -> 时区** 中找到相关选项。
+     ![](./meshtastic-wrong-time-change-time-zone/android-meshtastic-posix-timezone-setting.webp)
    - 另外，如果你使用 **Meshtastic CLI**，可以使用以下命令来设置时区：
      - **使用 Meshtastic CLI**：执行以下命令更新时区：
        ```
