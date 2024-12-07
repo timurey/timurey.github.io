@@ -17,9 +17,9 @@ tags:
 
 在开始之前，建议先获取 GPS 模块和开发板的规格书及电路图，以便了解它们的引脚配置和连接方法。以下是相关文档的链接：
 
-1. **EByte E108-GN03D GPS 模块用户手册**：[下载链接](./gps-module-ebyte-eora-s3/E108-GN03+Series_UserManual_EN_V1.1.pdf)  
-2. **EByte EoRa-S3 开发板用户手册**：[下载链接](./gps-module-ebyte-eora-s3/EoRa_PI_UserManual_CN_v1.0(2).pdf)  
-3. **EByte EoRa-S3 开发板电路图**：[下载链接](./gps-module-ebyte-eora-s3/EoRa%20PI开发板原理图.pdf)  
+1. **EByte E108-GN03D GPS 模块用户手册**：[下载链接](./gps-module-ebyte-eora-s3-CN/E108-GN03+Series_UserManual_EN_V1.1.pdf)  
+2. **EByte EoRa-S3 开发板用户手册**：[下载链接](./gps-module-ebyte-eora-s3-CN/EoRa_PI_UserManual_CN_v1.0(2).pdf)  
+3. **EByte EoRa-S3 开发板电路图**：[下载链接](./gps-module-ebyte-eora-s3-CN/EoRa%20PI开发板原理图.pdf)  
 
 这些文档对核对引脚、接线和电压要求非常重要。
 
