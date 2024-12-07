@@ -59,7 +59,7 @@ Here is an example:
 The following Mermaid diagram shows the wiring connections between the GPS module and the EoRa-S3 board:
 
 ```mermaid
-flowchart LR
+flowchart TD
 
     %% GPS Module Pins
     GPS_ON_OFF["ON_OFF (White)"]

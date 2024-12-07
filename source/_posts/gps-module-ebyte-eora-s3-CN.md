@@ -53,10 +53,8 @@ tags:
 | RXD      | 黑色     | IO15              | 开发板向 GPS 模块发送数据（TX）|  
 | VCC      | 红色     | 5V                | 电源供电                     |  
 
-以下是连接的 Mermaid 图示：
-
 ```mermaid
-flowchart LR
+flowchart TD
 
     %% GPS 模块引脚
     GPS_ON_OFF["ON_OFF (白色)"]
