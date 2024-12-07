@@ -102,22 +102,14 @@ flowchart LR
 
 After connecting the hardware, you need to configure the Meshtastic firmware to use the correct GPIO pins for the GPS module.
 
-### Steps to Configure:
+![](./gps-module-ebyte-eora-s3/Meshtastic_GPS_Module_Pin_Settings_RX16_TX15_Enable37.webp)
+
 1. Open the **Meshtastic Web UI** or connect using the **Meshtastic app**.
 2. Go to the GPS module configuration section.
 3. Assign the GPIO pins for **RX**, **TX**, and Enable:
    - **Receive Pin (RX):** Set to `16` (connected to the GPS module's TXD pin).
    - **Transmit Pin (TX):** Set to `15` (connected to the GPS module's RXD pin).
    - **Enable Pin:** Set to `37` (connected to the GPS module's ON_OFF pin).
-
-### Example Configuration:
-
-| Setting Name   | GPIO Pin |
-|----------------|----------|
-| **Receive Pin** | 16       |
-| **Transmit Pin**| 15       |
-| **Enable Pin**  | 37       |
-
 4. Save the configuration and restart the device.
 
 ### Notes:
@@ -140,30 +132,15 @@ After wiring and configuring the firmware, test the GPS module to ensure it is w
 If the GPS data is not displayed:
 1. Recheck the wiring connections, especially the TX and RX lines.
 2. Verify that the GPIO pins in the Meshtastic settings match your wiring.
-3. Open the serial terminal on your computer to monitor the logs for GPS-related data.
-   - Look for NMEA sentences like `$GPGGA` or `$GPRMC` in the logs.
 
 
-## Step 6: Enhancing the Setup (Optional)
-
-Although not required, you can make the following enhancements to improve functionality:
-
-1. **Enable/Disable GPS Dynamically**:
-   - Use the ON_OFF pin to control the GPS module power state dynamically through the firmware.
-
-2. **Custom GPIO Pins**:
-   - If IO15, IO16, or IO37 are occupied by other peripherals, reassign the GPS pins to other GPIOs and update the settings accordingly.
-
-3. **Improve Signal Reception**:
-   - Ensure the GPS module has a clear view of the sky for optimal satellite reception.
-
-
-## Step 7: Practical Applications
+## Practical Applications
 
 With the GPS module connected, the Meshtastic device can now:
 1. Share your real-time location with other Meshtastic users.
 2. Display altitude, latitude, and longitude on the OLED screen.
 3. Use the location data for navigation, tracking, and outdoor activities.
+4. Update device time RTC.
 
 
 ## Conclusion
