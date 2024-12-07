@@ -18,9 +18,9 @@ This tutorial provides a detailed, step-by-step guide to connect the **EByte E10
 
 Before you begin, it’s essential to have access to the datasheets and schematics of the GPS module and development board to understand their pin configurations and connections. Below are the relevant links:
 
-1. **EByte E108-GN03D GPS Module Datasheet**: [Download Here](./gps-module-ebyte-eora-s3-CN/E108-GN03+Series_UserManual_EN_V1.1.pdf)
-2. **EByte EoRa-S3 Development Board Datasheet**: [Download Here](./gps-module-ebyte-eora-s3-CN/EoRa_PI_UserManual_CN_v1.0(2).pdf)
-3. **EByte EoRa-S3 Development Board Schematics**: [Download Here](./gps-module-ebyte-eora-s3-CN/EoRa%20PI开发板原理图.pdf)
+1. **EByte E108-GN03D GPS Module Datasheet**: [Download Here](./gps-module-ebyte-eora-s3/E108-GN03+Series_UserManual_EN_V1.1.pdf)
+2. **EByte EoRa-S3 Development Board Datasheet**: [Download Here](./gps-module-ebyte-eora-s3/EoRa_PI_UserManual_CN_v1.0(2).pdf)
+3. **EByte EoRa-S3 Development Board Schematics**: [Download Here](./gps-module-ebyte-eora-s3/EoRa%20PI开发板原理图.pdf)
 
 These documents are crucial for verifying pinouts, wiring connections, and voltage requirements.
 
