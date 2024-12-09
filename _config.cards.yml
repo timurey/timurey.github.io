@@ -80,7 +80,7 @@ cover:
   sitename: 'Meshtastic 中国社区'
 
   # 若 avatar 配置不为空，则优先使用 avatar 覆盖 sitename
-  avatar: https://meshcn.net/images/meshtastic_china_meshcn_logo_animation_light_compressed_bitrate1_240p_h264.mp4
+  avatar: https://meshcn.net/images/meshtastic_china_meshcn_logo_png_light_theme.webp
   
 # https://cdn.jsdelivr.net/gh/hayschan/oss@main/2021/10/android-icon-96x96-iSPzqK.png  
   # sitename/avatar 下方的一句话介绍
