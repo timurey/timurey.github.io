@@ -17,6 +17,8 @@ categories:
 - 深圳和杭州的用户分别突破 12 人！  
 - 广州现已突破 8 人  
 
+![Meshtastic 中国社区 Node 节点城市分布图](./announcement-ebyte-out-stock-70-people-community/china-meshtastic-wechat-group-node-map.webp)
+
 这个增长速度简直是「坐着火箭往上冲」。群里的讨论也越来越热闹，从如何优化天线到分享节点信号优化，每天都有数不清的干货和趣事。如果你还没加入，赶快[联系我们](https://meshcn.net/contact)，不然就只能错过这些有趣又有料的讨论啦！😉
 
 ## 太阳能节点设计初见雏形
@@ -34,6 +36,8 @@ categories:
 - Meshtastic 官方支持，开箱即玩  
 
 这个消息一出，群友们的购物热情瞬间爆表，不仅清空了厂家库存，还让厂家吓到进群求饶：「别买了别买了，仓库没货啦！😭」 更有趣的是，现在 Ebyte 厂家的人也进群围观，想搞清楚为什么这些板子突然就成了爆款。  
+
+![](./announcement-ebyte-out-stock-70-people-community/ebyte-meshtastic-china-wechat-group-screenshot-conversation-chat.webp)
 
 群友调侃道：「我们买板子，买到厂家开始研究 Meshtastic 了哈哈哈！」这波操作可以说是让人「笑到头掉」了。未来我们可能还会看到亿百特 Ebyte 参与 Meshtastic 的生态建设，谁知道呢？
 
