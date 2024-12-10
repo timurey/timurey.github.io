@@ -29,7 +29,7 @@ tags:
 
 ## 趣闻：Ebyte 的 EoRa-S3 被「买到断货」
 
-最后，聊点轻松的趣事。最近，群里发现了一个「神级性价比」硬件——**亿百特 Ebyte 的 EoRa-S3**。只需 50 块，这块小板子就能提供和市面上一些 100 块的产品（例如 Lilygo T3 S3）几乎一致的配置：  
+最近，群里发现了一个「神级性价比」硬件——**亿百特 Ebyte 的 [EoRa-S3](/flash-meshtastic-firmware-ebyte-eora-s3)**。只需 50 块，这块小板子就能提供和市面上一些 100 块的产品（例如 Lilygo T3 S3）几乎一致的配置：  
 - ESP32-S3 芯片  
 - LoRa、Wi-Fi、蓝牙  
 - 自带屏幕  
