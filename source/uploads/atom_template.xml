@@ -16,9 +16,9 @@
   {% endif %}
   <generator uri="https://hexo.io/">Hexo</generator>
 
- <webfeeds:cover image="https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/gFn7zm.JPG" />
- <webfeeds:icon>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/VAlBPs.png</webfeeds:icon>
- <webfeeds:logo>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/XDzm9G.svg</webfeeds:logo>
+ <!-- <webfeeds:cover image="https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/gFn7zm.JPG" /> -->
+ <webfeeds:icon>https://meshcn.net/images/meshtastic_china_meshcn_logo_png_light_theme.png</webfeeds:icon>
+ <webfeeds:logo>https://meshcn.net/images/meshtastic_china_meshcn_logo_png_light_theme.png</webfeeds:logo>
  <webfeeds:accentColor>0abab5</webfeeds:accentColor>
  <webfeeds:related layout="card" target="browser"/>
 

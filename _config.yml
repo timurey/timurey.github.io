@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 中国 Meshtastic 社区
-# subtitle: Nozomi 的博客
+title: MeshCN
+subtitle: Meshtastic 中国社区
 description: 在中国建立太阳能供电的 Meshtastic 无线电网络，让任何拥有智能手机的人都能在没有电力或互联网的情况下发送文本消息。
 # keywords: ['生活','博客','计算机','科技']
-# author: Nozomi
+author: Hays Chan | 陈希
 language: zh-CN
 timezone: Asia/Shanghai
 # email: me@haysc.tech
