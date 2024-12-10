@@ -5,8 +5,6 @@ description: "本周，Meshtastic 中国社区迎来了多项令人兴奋的突�
 thumbnail: https://meshcn.net/announcement-ebyte-out-stock-70-people-community/dan-gold-80jPsacAjUs-unsplash.webp
 categories:
  - 公告
-tags:
- - 域名
 ---
 
 大家好！🎉
