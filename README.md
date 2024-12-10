@@ -2,7 +2,7 @@
 
 欢迎来到 Meshtastic China 中国社区网站的官方仓库！这个网站是 Meshtastic China 中国社区的核心平台，提供技术文章和交流。
 
-![](./asset/meshcn-net-website-meshtastic-china-screenshot.webp)
+![](./asset/meshcn-net-banner-logo-landscape.webp)
 
 **Meshtastic China** 网站是一个开放的社区平台，旨在为中国国内 Meshtastic 用户提供支持、信息和交流空间。网站包含了关于 Meshtastic 技术、使用指南以及技术支持的各类内容，是社区成员相互学习、协作创新的主要渠道。
 
@@ -16,6 +16,8 @@
 网站为社区驱动，所有内容和活动都致力于促进技术交流和创新，而非以营利为目的。
 
 ## 联系我们
+
+![](./asset/meshcn-net-website-meshtastic-china-screenshot.webp)
 
 如果您对网站内容或社区有任何疑问或建议，非常欢迎通过 [联系我们页面](https://meshcn.net/contact/) 上提供的邮箱与我们取得联系！我们期待您的声音，让社区变得更加完善。
 
