@@ -46,11 +46,11 @@ tags:
 
 | GPS 引脚 | 线缆颜色 | EoRa-S3 GPIO 引脚 | 功能说明                     |  
 |----------|----------|-------------------|------------------------------|  
-| ON_OFF   | 白色     | IO37              | 电源控制                     |  
+| ON_OFF   | 白色     | IO38              | 电源控制                     |  
 | 1PPS     | 蓝色     | 不连接            | Meshtastic 不需要            |  
 | GND      | 绿色     | GND               | 公共接地                     |  
-| TXD      | 黄色     | IO16              | GPS 模块向开发板发送数据（RX）|  
-| RXD      | 黑色     | IO15              | 开发板向 GPS 模块发送数据（TX）|  
+| TXD      | 黄色     | IO40              | GPS 模块向开发板发送数据（RX）|  
+| RXD      | 黑色     | IO41              | 开发板向 GPS 模块发送数据（TX）|  
 | VCC      | 红色     | 5V                | 电源供电                     |  
 
 ```mermaid
@@ -65,20 +65,20 @@ flowchart TD
     GPS_VCC["VCC (红色)"]
 
     %% EoRa-S3 引脚
-    EORA_IO37["IO37 (GPIO 电源控制)"]
+    EORA_IO38["IO38 (GPIO 电源控制)"]
     EORA_GND["GND"]
-    EORA_IO16["IO16 (RX)"]
-    EORA_IO15["IO15 (TX)"]
+    EORA_IO40["IO40 (RX)"]
+    EORA_IO41["IO41 (TX)"]
     EORA_5V["5V / 3.3V"]
 
     %% 不适用节点
     NotApplicable["Meshtastic 不需要"]
 
     %% 连接示意图
-    GPS_ON_OFF ---|白色| EORA_IO37
+    GPS_ON_OFF ---|白色| EORA_IO38
     GPS_GND ---|绿色| EORA_GND
-    GPS_TXD ---|黄色| EORA_IO16
-    GPS_RXD ---|黑色| EORA_IO15
+    GPS_TXD ---|黄色| EORA_IO40
+    GPS_RXD ---|黑色| EORA_IO41
     GPS_VCC ---|红色| EORA_5V
     GPS_1PPS ---|蓝色| NotApplicable
 
