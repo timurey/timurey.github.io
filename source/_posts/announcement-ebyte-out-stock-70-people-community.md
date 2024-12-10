@@ -9,7 +9,7 @@ categories:
 
 大家好！🎉
 
-本周，Meshtastic 中国社区的火热势头让人忍不住想要喊一声「Awesome!」。距离[上次公告](/announcement-migration-new-domain-meshcn-net/)才不到两周，我们又有了许多振奋人心的进展，现在就来一一盘点吧！✨
+本周，Meshtastic 中国社区 MeshCN 的火热势头让人忍不住想要喊一声「Awesome!」。距离[上次公告](/announcement-migration-new-domain-meshcn-net/)才不到两周，我们又有了许多振奋人心的进展，现在就来一一盘点吧！✨
 
 ## 微信交流群突破 70 人
 
