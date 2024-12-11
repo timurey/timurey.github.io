@@ -7,6 +7,13 @@ comments: false
 
 欢迎来到 Meshtastic China Community 官方媒体资源页面。在这里，您可以找到高质量的 logo 和动画，确保在您的提到我们的时候，能保持一致且专业的社区形象。
 
+## 浅色主题 Banner - 静态
+
+![Meshtastic China Logo - 浅色主题](../images/meshcn-net-banner-logo-landscape.png)
+
+- **格式**：PNG 图片
+- **下载链接**：[点击此处下载](../images/meshcn-net-banner-logo-landscape.png)  
+
 ## 浅色主题 Logo - 静态
 
 ![Meshtastic China Logo - 浅色主题](../images/meshtastic_china_meshcn_logo_png_light_theme.png)
