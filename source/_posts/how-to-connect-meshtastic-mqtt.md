@@ -73,7 +73,12 @@ MQTT 是 Meshtastic 的内置功能，通过以太网或 WiFi 将节点连接到
 - **Approximate Location（位置精度）**：设置为 **2.9KM** 或 **5.8KM**，用以平衡隐私保护与位置精度的需求。
   - **作用**：选择较低的精度（如 2.9KM）有助于保护隐私，同时依然能够提供附近设备的大致位置。如果对隐私要求较高，可以选择较大的精度。
 
-### 8. 配置 MQTT 服务器
+### 8. 配置 Root Topic
+
+- Root topic 应该根据你的地区选择合适的名称。目前，社区推荐使用全国范围的 root topic：`msh/CN`。
+- ⚠ 注意：确保没有多余的斜杠 `/`。之前有社区成员反馈无法连接，经过排查，发现是因为使用了 `msh//CN` 或 `msh/CN/` 等错误格式。
+
+### 9. 配置 MQTT 服务器
 
 ![](./how-to-connect-meshtastic-mqtt/apple_mqtt_server_screenshot.webp)
 
