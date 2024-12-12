@@ -9,7 +9,7 @@ categories:
 
 亲爱的 Meshtastic 中文社区小伙伴们：今天，我怀着激动和自豪的心情，分享一个小突破——**Meshtastic 安卓应用的简体中文翻译现已完成 100%！** 🎉
 
-![Meshtastic 中文翻译进度达到 100%](./announcement-Chinese-translations-hundred-percent/crowdin-chinese-meshtastic-translate-screenshot.webp)
+![Meshtastic 中文翻译进度达到 100%](./announcement-Chinese-translations-hundred-percent/crowdin-chinese-meshtastic-translate-screenshot-dense.webp)
 
 刚开始做这项工作的时候，翻译进度只有 61%，还有 568 个词条没有完成。中文社区的伙伴告诉我，很多人用英文界面时会感到不太方便。这让我感触很深，因为我意识到，Meshtastic 本可以帮助更多的人，如果它能用大家熟悉的母语去呈现的话。
 
