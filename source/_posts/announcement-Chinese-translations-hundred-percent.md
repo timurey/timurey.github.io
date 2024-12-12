@@ -9,11 +9,13 @@ categories:
 
 亲爱的 Meshtastic 中文社区小伙伴们：今天，我怀着激动和自豪的心情，分享一个小突破——**Meshtastic 安卓应用的简体中文翻译现已完成 100%！** 🎉
 
+![Meshtastic 中文翻译进度达到 100%](./announcement-Chinese-translations-hundred-percent/crowdin-chinese-meshtastic-translate-screenshot.webp)
+
 刚开始做这项工作的时候，翻译进度只有 61%，还有 568 个词条没有完成。中文社区的伙伴告诉我，很多人用英文界面时会感到不太方便。这让我感触很深，因为我意识到，Meshtastic 本可以帮助更多的人，如果它能用大家熟悉的母语去呈现的话。
 
 于是，我开始在自己的每一个空闲时间里，打开 Crowdin 平台，翻译那些未完成的词条。有时候是工作间隙的一小段时间，有时候是晚上的休息时光，甚至在睡觉前，我都会忍不住再翻译几条。
 
-![Meshtastic 中文翻译进度达到 100%](./announcement-Chinese-translations-hundred-percent/crowdin-chinese-meshtastic-translate-screenshot.webp)
+![Meshtastic Android 已经 merge 了新的翻译啦](./announcement-Chinese-translations-hundred-percent/git-commit-merge-screenshot.webp)
 
 不过，翻译的过程远比我想象中更复杂。我常常担心：*这些翻译是否足够通顺？是否能够让其他中文用户理解？* 为了确保翻译的准确性和贴合度，我经常在 Meshtastic 的微信群中向社区伙伴们征求意见。遇到难解的技术术语时，我们会一起讨论，比如「Hops」、「Client Role」、「Negative Acknowledgment」应该如何翻译才能既准确又不生硬。这些交流让我感受到，这是一个集体的努力，而不只是我一个人的工作。
 
@@ -31,7 +33,9 @@ categories:
 
 翻译对我来说不仅仅是将词句从一种语言转换为另一种语言，更是为人们之间架起沟通的桥梁。语言不该是一道墙，而应该是一座桥。这次翻译工作，就是我为这座桥添砖加瓦的一点小小贡献。
 
-## 展望未来
+![Meshtastic Android 已经 merge 了新的翻译啦](./announcement-Chinese-translations-hundred-percent/git-commit-merge-screenshot-2.webp)
+
+## 下一步
 
 下一步我计划为 iOS 版本的 Meshtastic 应用贡献翻译。与 Android 版本不同，iOS 的翻译不再依赖像 Crowdin 这样的便捷网页平台，而是需要通过 XCode 来打开和修改文件。由于我目前没有 Mac 电脑，这无疑增加了操作的复杂性。期待后续能找到方法解决。
 
