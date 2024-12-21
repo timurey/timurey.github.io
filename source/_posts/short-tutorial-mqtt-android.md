@@ -6,6 +6,8 @@ categories:
  - 入门
 ---
 
+> 感谢广州群友 Yuri 将自己的经验提炼并整理成大纲，本文内容框架基于 Yuri 的贡献。
+
 ## 1. 烧录固件
 - **nRF 芯片设备**：将固件文件拖到设备弹出的 U 盘窗口中完成烧录。
 - **ESP32 设备**：使用网页串口工具烧录固件（确保电脑安装串口驱动）。具体操作可参考这篇为 [Ebyte EoRa 烧录固件的文章](http://localhost:4000/flash-meshtastic-firmware-ebyte-eora-s3/)。
