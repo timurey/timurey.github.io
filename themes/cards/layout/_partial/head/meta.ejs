@@ -28,6 +28,9 @@ if (is_archive()) {
     <meta name="keywords" content="<%= keywords %>">
 <% } %>
 
+<!-- Always show a canonical link; use front-matter 'canonical_url' if present, otherwise use the post permalink -->
+<link rel="canonical" href="<%= page.canonical_url || page.permalink %>" />
+
 <% if (page.layout === 'search') { %>
     <link rel="canonical" href="<%= page.permalink %>">
 <% } %>
