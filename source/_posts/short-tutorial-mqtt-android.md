@@ -1,5 +1,5 @@
 ---
-title: 【精简版】新手快速接入 Meshtastic MQTT 官服
+title: 【精简版】新手快速接入 Meshtastic MQTT 官方服务器
 date: 2024-12-19 18:31:20
 description: 涵盖固件烧录、设备连接、基础设置以及消息测试，步骤清晰，操作简单，帮助用户在最短时间内完成 MQTT 配置并投入使用。
 categories:
@@ -46,7 +46,7 @@ iOS 设置请参考 MeshCN 社区的另一篇文章—— [《如何设置 Mesht
 
 ## 4. 测试连接
 1. 确保手机能正常联网（**Proxy to client enable** 依赖手机网络转发 MQTT 数据）。
-2. 返回主页面，进入 **0 LongFast**（iOS 称为 **Primary Channel**），发送一条消息，测试发送和接收功能。注意消息传输约需 1 分钟。
+2. 返回主页面，进入 **0 LongFast**（iOS 称为 **Primary Channel**），发送一条消息，测试发送和接收功能，这样可以测试 MQTT 服务器的成效。注意消息传输约需 1 分钟。
 
 设置完成！🎉
 
