@@ -54,6 +54,7 @@ flowchart LR
 在 Meshtastic Reddit 社区中，用户 Tobias Schwarz 分享了他在 [偏远地区管理 Meshtastic 节点的创新做法](https://www.reddit.com/r/meshtastic/comments/1b37lfu/remote_management_and_remote_firmware_updates/) ：
 
 > We have multiple locations that are hard to reach but where we have internet access via an OpenWRT router. The router also has an USB port, so we use that port to power the meshtastic node and use USB/IP to perform remote updates via the IP protocol forwarding the USB port to our local PC.
+> 我们有多个难以到达的地点，但这些地方通过 OpenWRT 路由器实现了互联网接入。路由器配备了 USB 接口，我们利用该接口为 Meshtastic 节点供电，并通过 USB/IP 技术将 USB 接口通过 IP 协议转发到本地电脑，从而实现远程更新。
 
 这些地点虽然难以到达，但通过 OpenWRT 路由器实现了互联网接入。借助 USB/IP 技术，他成功地将这些节点的管理转移到远程电脑上，从而大幅简化了设备维护的流程。
 
