@@ -4,7 +4,7 @@ date: 2024-11-28 10:21:28
 thumbnail: https://s2.loli.net/2024/11/28/jyvu28sHfbwolMO.jpg
 description: 无线电里没有黑魔法
 categories:
- - Antenna
+ - 教程
 tags:
  - Gain
  - VSWR

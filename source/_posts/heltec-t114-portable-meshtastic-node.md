@@ -6,7 +6,7 @@ description: "基于 Heltec T114（带 GPS）的便携式 Meshtastic 节点方�
 author:
   name: "阿猫"
 categories:
- - 入门
+ - 案例
 ---
 
 > 本文转载自群友阿猫，原文地址：[阿猫的博客](https://ameow.xyz/archives/meshtastic-heltec-t114) 。感谢阿猫的精彩分享！

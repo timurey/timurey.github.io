@@ -4,8 +4,9 @@ date: 2024-11-26 17:45:20
 description: 
 thumbnail: https://meshcn.net/introduction/nick-fewings-lirOPuejTbM-unsplash.webp
 categories:
- - Meshtastic
+ - 教程
 tags:
+ - 入门
  - 无线电
  - 开源项目
  - 网状网络
