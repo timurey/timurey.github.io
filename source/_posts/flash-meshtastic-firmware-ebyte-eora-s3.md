@@ -4,7 +4,7 @@ date: 2024-11-26 11:15:20
 thumbnail: https://meshcn.net/flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.webp
 description: 
 categories:
- - Meshtastic
+ - 教程
 tags:
  - Ebyte
  - EoRa-S3-400TB

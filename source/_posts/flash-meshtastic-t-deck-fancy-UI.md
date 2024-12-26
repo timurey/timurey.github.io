@@ -4,8 +4,9 @@ date: 2024-11-26 20:15:20
 thumbnail: https://www.jeffgeerling.com/sites/default/files/images/lilygo-t-deck-on-workbench-new-firmware.jpeg
 description: 
 categories:
- - Meshtastic
+ - 教程
 tags:
+ - 烧录
  - Lilygo
  - T-Deck
 ---
@@ -63,7 +64,7 @@ Lilygo T-Deck 是一款集成了 Wi-Fi、蓝牙及扩展接口的物联网开发
 
 ![](https://www.jeffgeerling.com/sites/default/files/images/lilygo-t-deck-on-workbench-new-firmware.jpeg)
 
-## 方法二：直接刷写 Meshtastic 固件（适合开发者）
+## 方法二：直接烧录刷写 Meshtastic 固件（适合开发者）
 
 这一方法更为直接，适合熟悉开发工具的用户。该方法不需要使用 SD 卡，而是通过 USB 数据线直接将固件烧录到设备。
 
@@ -80,7 +81,7 @@ Lilygo T-Deck 是一款集成了 Wi-Fi、蓝牙及扩展接口的物联网开发
 - 用 USB 数据线连接 Lilygo T-Deck 到电脑。
 - 按住设备上的 圆球键，然后按左侧 Reset 键，进入刷机模式。
 
-#### 2. 使用 ESP Web Tool 刷写固件
+#### 2. 使用 ESP Web Tool 烧录刷写固件 firmware
 - 打开 [ESP Web Tool](https://esp.huhn.me/)。
 - 分两次刷写固件，确保地址设置正确：
   1. 第一次刷机： 地址 `0x0`，选择 `T-Deck_UnitTest_241004.bin`。

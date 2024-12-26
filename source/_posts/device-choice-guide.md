@@ -4,11 +4,22 @@ date: 2024-12-21 19:07:20
 description: 本文教你如何根据需求快速挑选适合的 Meshtastic 硬件，无论是开发板还是成品设备，详解关键特性与实用场景。新手指南一步到位，让你轻松入门离网通信，享受 Mesh 网络的乐趣与便捷！
 thumbnail: https://meshcn.net/device-choice-guide/kelly-sikkema-Uh5GWNUGgGY-unsplash.webp
 categories:
- - 入门
+ - 教程
 tags:
  - 设备
  - 选择
 ---
+
+| 场景                   | 推荐设备                  | 特点                          | 价格范围  |
+|------------------------|--------------------------|-------------------------------|-----------|
+| 家里使用     | Heltec LoRa32 V3         | 支持 Wi-Fi，适合家用节点       | 110 元    |
+|                        | Lilygo T-Beam            | GPS 支持，适合高通信距离       | 150 元    |
+| 便携     | Lilygo T-Echo            | 低功耗便携，电子墨水屏         | 200 元    |
+|                        | Heltec T114              | 长续航，适合野外固定部署       | 160 元    |
+| 太阳能远程节点部署     | WaveShare RP2040         | 超低功耗，适合长期运行         | 60 元     |
+|                        | Heltec T114              | 支持蓝牙，配置更灵活           | 160 元    |
+| 教学与实验用途         | Ebyte EoRa-S3            | 性价比高，适合批量采购         | 50 元     |
+|                        | Heltec LoRa32 V3         | OLED 屏幕，调试方便            | 110 元    |
 
 ## 引言
 
