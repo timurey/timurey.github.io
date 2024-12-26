@@ -57,11 +57,17 @@ navbar:
   menu: 
     - name: 关于
       url: https://meshcn.net/intro-meshtastic-china/
-    - name: 入门指南
-      url: https://meshcn.net/introduction/
-    - name: 联系我们
+    - name: 教程
+      url: https://meshcn.net/categories/教程/
+    - name: 案例
+      url: https://meshcn.net/categories/案例/
+    # - name: 外壳
+    #   url: https://meshcn.net/categories/外壳/
+    - name: 公告
+      url: https://meshcn.net/categories/公告/
+    - name: 加入社区
       url: /contact
-    - name: 归档
+    - name: 过往文章
       url: /archives/
     # - name: 说说
     #   url: /artitalk/
