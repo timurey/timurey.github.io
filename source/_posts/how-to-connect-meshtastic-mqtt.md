@@ -24,7 +24,7 @@ MQTT 是 Meshtastic 的内置功能，通过以太网或 WiFi 将节点连接到
 ## MQTT 配置
 
 ### 1. 访问 MQTT 设置
-打开 Meshtastic 应用，在主界面找到“设置”选项，进入 **Module Configuration** 下的 **MQTT Config**。
+打开 Meshtastic 应用，在主界面找到「设置」选项，进入 **Module Configuration** 下的 **MQTT Config**。
 
 对于 **iOS** 用户，路径为：`设置` -> `Module Configuration` -> `MQTT Config`。
 对于 **Android** 用户，路径也类似。
