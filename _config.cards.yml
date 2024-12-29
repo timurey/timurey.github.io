@@ -56,17 +56,17 @@ navbar:
   # 右侧站内导航链接
   menu: 
     - name: ℹ️关于
-      url: https://meshcn.net/intro-meshtastic-china/
+      url: /intro-meshtastic-china/
     - name: 📚教程
-      url: https://meshcn.net/categories/教程/
+      url: /categories/教程/
     - name: 💡案例
-      url: https://meshcn.net/categories/案例/
+      url: /categories/案例/
     # - name: 外壳
-    #   url: https://meshcn.net/categories/外壳/
+    #   url: /categories/外壳/
     - name: 💬社区群
       url: /contact
     - name: 📢公告
-      url: https://meshcn.net/categories/公告/
+      url: /categories/公告/
     - name: 🗂️过往文章
       url: /archives/
     # - name: 说说
