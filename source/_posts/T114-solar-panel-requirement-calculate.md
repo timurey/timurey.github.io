@@ -67,6 +67,12 @@ MPPT 控制器通过动态调节输入电压和电流，实现最大功率点追
   \text{效率} = \frac{P_{\text{充电}}}{P_{\text{太阳能板}}} \times 100 = \frac{0.63}{1} \times 100 = 63\%
   $$
 
+关于 MPPT 接线，你可以参考下以下接线图（可以忽略右边紫色的传感器）。
+
+![](./T114-solar-panel-requirement-calculate/Meshtastic%20Heltec%20Lora23%20V3%20solar%20node%20circuit%20grey%20bkgrnd.webp)
+
+> 接线图来自 heyitsyang 的 GitHub 项目 W9ETC-Meshtastic-Solar-Node。
+
 ### 效率对比总结
 
 | 对比项            | T114 默认接口        | MPPT 控制器       |
@@ -117,8 +123,6 @@ $$
 
 
 #### 2. 太阳能板输出功率需求计算
-
-![](./T114-solar-panel-requirement-calculate/Meshtastic%20Heltec%20Lora23%20V3%20solar%20node%20circuit%20grey%20bkgrnd.webp)
 
 要满足 T114 的每日能量需求，太阳能板的输出功率需要与当地的日照条件相匹配。假设当地每日平均有效日照时间为 $ 4 \text{小时} $，太阳能板的输出功率可以通过以下公式计算：
 $$
