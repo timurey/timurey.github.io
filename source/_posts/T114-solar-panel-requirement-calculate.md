@@ -48,7 +48,7 @@ Heltec T114 的默认太阳能输入接口并非高效能量转换电路，而�
   \text{效率} = \frac{P_{\text{充电}}}{P_{\text{太阳能板}}} \times 100 = \frac{0.13}{1} \times 100 = 13 \%
   $$
 
-### 把 T114 接上外置控制器
+### 把 T114 接上外置 MPPT
 
 MPPT 控制器通过动态调节输入电压和电流，实现最大功率点追踪 MPPT（Maximum Power Point Tracking），高效提取太阳能板的输出功率：
 - 宽电压适应范围：通常支持 3V-18V，甚至更高。我建议选择 6V 规格的 MPPT 控制器。
@@ -117,6 +117,8 @@ $$
 
 
 #### 2. 太阳能板输出功率需求计算
+
+![](./T114-solar-panel-requirement-calculate/Meshtastic%20Heltec%20Lora23%20V3%20solar%20node%20circuit%20grey%20bkgrnd.webp)
 
 要满足 T114 的每日能量需求，太阳能板的输出功率需要与当地的日照条件相匹配。假设当地每日平均有效日照时间为 $ 4 \text{小时} $，太阳能板的输出功率可以通过以下公式计算：
 $$
