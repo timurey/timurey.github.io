@@ -51,7 +51,7 @@ head:
 navbar: 
 
   # 左侧名称显示
-  sitename: MeshCN - Meshtastic 中国社区
+  sitename: "MeshCN"
   
   # 右侧站内导航链接
   menu: 
@@ -90,7 +90,7 @@ cover:
   
 # https://cdn.jsdelivr.net/gh/hayschan/oss@main/2021/10/android-icon-96x96-iSPzqK.png  
   # sitename/avatar 下方的一句话介绍
-  description: 去中心化离线 LoRa 通信网络
+  description: 致力研究去中心化 LoRa 离线 Meshtastic 通信网络
 
 
 
