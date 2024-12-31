@@ -1,6 +1,6 @@
-# Meshtastic China 中国社区网站
+# Meshtastic China 中国社区网站 - MeshCN
 
-欢迎来到 Meshtastic China 中国社区网站的官方仓库！这个网站是 Meshtastic China 中国社区的核心平台，提供技术文章和交流。
+欢迎来到 [Meshtastic China 中国社区网站](https://meshcn.net/) 的官方仓库！这个网站是 Meshtastic China 中国社区的核心平台，提供技术文章和交流。
 
 ![](./asset/meshcn-net-banner-logo-landscape.webp)
 
@@ -14,6 +14,27 @@
 - **贡献与开放**：鼓励社区成员贡献代码、内容或分享自己的使用经验，推动 Meshtastic 技术的创新与发展。
 
 网站为社区驱动，所有内容和活动都致力于促进技术交流和创新，而非以营利为目的。
+
+## 社区最受欢迎的文章
+
+以下是目前 Meshtastic 中国社区中最受欢迎的文章，欢迎大家阅读和分享：
+
+1. 《[太阳能 Meshtastic 节点：自带太阳能接口 vs MPPT？太阳能板规格如何选？](https://meshcn.net/T114-solar-panel-requirement-calculate/)》
+   - 深入分析太阳能节点设计，帮助你选择适合的太阳能板及控制器。
+
+2. 《[如何设置 Meshtastic MQTT 功能](https://meshcn.net/how-to-connect-meshtastic-mqtt/)》
+   - 教你快速上手 Meshtastic MQTT 功能配置，优化设备间通信。
+
+3. 《[Meshtastic 常用工具](https://meshcn.net/common-tools/)》
+   - 列举了一些常用的工具，包括固件刷写工具和信号覆盖规划工具，助你轻松优化网络。
+
+4. 《[欢迎加入 Meshtastic 中国社区](https://meshcn.net/intro-meshtastic-china/)》
+   - 全面介绍社区的目标、网络构建和法律合规性，适合新手阅读。
+
+5. 《[【精简版】新手快速接入 Meshtastic MQTT 官方服务器](https://meshcn.net/short-tutorial-mqtt-android/)》
+   - 简明扼要的教程，帮助新用户快速接入官方 MQTT 服务器。
+
+更多精彩内容请访问我们的官网 [meshcn.net](https://meshcn.net/)。
 
 ## 联系我们
 
