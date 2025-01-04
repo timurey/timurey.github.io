@@ -114,7 +114,7 @@ MeshSense 的简单易用性（*虽然 UI 我觉得比较土 😀*）也是其�
 
 在上手 MeshSense 之前，一些实用的建议可以帮助你更高效地使用这款工具。
 
-首先，建议浏览 MeshSense 官网提供的 [FAQ 文档](https://affirmatech.com/meshsense/faq)。这份文档涵盖了常见问题的解决方案，是新用户的绝佳资源，特别是对于不熟悉蓝牙连接或 WiFi 配置的用户。如果在使用过程中遇到问题，FAQ 通常能够快速解答你的疑问。
+首先，建议浏览 MeshSense 的 [FAQ 文档](/meshtastic-desktop-client-meshsense-faq)（我已经为这个文档做了中文翻译）。这份文档涵盖了常见问题的解决方案，是新用户的绝佳资源，特别是对于不熟悉蓝牙连接或 WiFi 配置的用户。如果在使用过程中遇到问题，FAQ 通常能够快速解答你的疑问。
 
 其次，根据你的网络环境调整 MeshSense 的设置非常重要。对于带宽有限的网络环境，建议在设置菜单中禁用自动 Traceroute （路由追踪）功能，并设置合理的频率限制，以避免不必要的网络资源消耗。此外，你还可以调整「节点不活动超时时间」（Minutes of inactivity to mark node inactive）这一参数，确保节点列表保持整洁，同时减少无效节点的干扰。
 
