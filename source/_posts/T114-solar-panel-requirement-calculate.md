@@ -13,7 +13,7 @@ tags:
 mathjax: true
 ---
 
-这篇文章会使用 [Heltec T114 作为案例](https://meshcn.net/heltec-t114-portable-meshtastic-node/) 讨论我如何制作太阳能节点。
+本文以搭载 nRF52 芯片 MCU 的 [Heltec T114 作为案例](https://meshcn.net/heltec-t114-portable-meshtastic-node/)，探讨如何构建高效的太阳能供电 Meshtastic 节点。需要特别说明的是，其他使用 nRF52 芯片的 Meshtastic 硬件功耗相差无几，因此文中分享的结论和计算方法同样具有很高的参考价值。这篇文章并不局限于 Heltec T114，适用于所有类似硬件。
 
 当我们选择用 Heltec T114 构建太阳能供电节点时，经常面临两个问题：
 1. 直接使用 T114 自带的太阳能输入接口，还是额外使用 MPPT 控制器？
