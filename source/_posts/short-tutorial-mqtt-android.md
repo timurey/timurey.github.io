@@ -8,6 +8,8 @@ categories:
 
 > 感谢广州群友 Yuri 将自己的经验提炼并整理成大纲，本文内容框架基于 Yuri 的贡献。
 
+这一篇文章是以 Meshtastic Android（安卓）App 进行演示。如果你是苹果 iOS 用户，请参考 MeshCN 社区的另一篇文章—— [《如何设置 Meshtastic MQTT 功能》](https://meshcn.net/how-to-connect-meshtastic-mqtt/)。
+
 ## 1. 烧录固件
 - **nRF 芯片设备**：将固件文件拖到设备弹出的 U 盘窗口中完成烧录。
 - **ESP32 设备**：使用网页串口工具烧录固件（确保电脑安装串口驱动）。具体操作可参考这篇为 [Ebyte EoRa 烧录固件的文章](http://localhost:4000/flash-meshtastic-firmware-ebyte-eora-s3/)。
