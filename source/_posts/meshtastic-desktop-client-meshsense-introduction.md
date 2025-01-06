@@ -7,11 +7,11 @@ categories:
  - 评测
 ---
 
-Meshtastic 的 iOS、安卓和 Web 客户端功能强大，但在桌面端领域却长期留有空白。一款功能全面、持续更新的桌面工具，一直是用户们翘首以盼的利器。
+Meshtastic 的 iOS、安卓和 Web 客户端功能强大，但在 PC 端领域却长期留有空白。一款功能全面、持续更新的桌面工具，一直是用户们翘首以盼的利器。
 
 虽然 Meshtastic 曾推出 [Network Management Client](https://github.com/meshtastic/network-management-client) 短暂填补过这一空白，但这个工具在 2023 年 7 月 27 日后就停止更新。我试用过一段时间，结果问题频出，bug 横飞，体验实在让人抓狂。
 
-就在这种背景下，[MeshSense](https://affirmatech.com/meshsense) 横空出世。这是一款开源的第三方 Meshtastic 桌面客户端，其功能之丰富、更新之迅速，成为 Meshtastic 工具生态中不可或缺的一部分。
+就在这种背景下，[MeshSense](https://affirmatech.com/meshsense) 横空出世。这是一款开源的第三方 Meshtastic 电脑客户端，其功能之丰富、更新之迅速，成为 Meshtastic 工具生态中不可或缺的一部分。
 
 ## 什么是 MeshSense？
 

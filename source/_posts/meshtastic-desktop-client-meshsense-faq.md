@@ -7,7 +7,7 @@ categories:
  - 教程
 ---
 
-以下内容是对 MeshSense 官网常见问题解答（FAQ）的中文翻译，旨在方便 MeshCN 中文社区的读者了解这款 Meshtastic 第三方桌面端的功能和使用方法。
+以下内容是对 MeshSense 官网常见问题解答（FAQ）的中文翻译，旨在方便 MeshCN 中文社区的读者了解这款 Meshtastic 第三方 PC 桌面端的功能和使用方法。
 
 英文原文可在此链接查看：[MeshSense FAQ](https://affirmatech.com/meshsense/faq)。
 
@@ -17,7 +17,7 @@ categories:
 
 ## 什么是 MeshSense？
 
-MeshSense 是一款开源的简单应用程序，可监控、映射并图形化显示你所在区域 Meshtastic 网络的关键数据，包括已连接节点、信号报告、Traceroute 信息等！它通过蓝牙或 WiFi 与 Meshtastic 节点直接连接，持续提供评估网络健康状况所需的所有信息。
+MeshSense 是一款开源的电脑应用程序，可监控、映射并图形化显示你所在区域 Meshtastic 网络的关键数据，包括已连接节点、信号报告、Traceroute 信息等！它通过蓝牙或 WiFi 与 Meshtastic 节点直接连接，持续提供评估网络健康状况所需的所有信息。
 
 ## MeshSense 是开源的吗？
 
