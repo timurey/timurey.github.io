@@ -8,6 +8,8 @@ tags:
  - MQTT
 ---
 
+这一篇文章是以 Meshtastic 苹果 iOS App 进行演示。如果你是安卓（Android）用户，请参考 MeshCN 社区的另一篇文章—— [《【精简版】新手快速接入 Meshtastic MQTT 官方服务器》](/short-tutorial-mqtt-android/)。
+
 在这个教程中，我们将逐步介绍如何在 Meshtastic 中配置 MQTT，以便将您的设备与互联网连接，从而使本地 Mesh 网络中的用户可以与外部用户进行通信。
 
 MQTT 是 Meshtastic 的内置功能，通过以太网或 WiFi 将节点连接到本地互联网。对于完全孤立的用户来说，这是一种获取更多节点联系的方式。然而，启用 MQTT 时，你可能会将整个网络的通信流量广播到公共互联网，包括消息和位置信息。因此，建议根据实际需要谨慎启用此功能。
