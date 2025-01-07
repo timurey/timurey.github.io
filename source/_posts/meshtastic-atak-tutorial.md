@@ -110,7 +110,7 @@ Meshtastic 官方 ATAK 插件的主要作用有以下三点：
 
 2. 拦截 ATAK 的 CoT 数据：插件通过 ATAK 提供的 `PreSendProcessor` 接口，截取所有即将发送的 CoT（Cursor on Target）数据包，并将它们通过 LoRa 网络发送。
 
-3. 监听 Meshtastic Android 应用的广播：插件通过 ATAK_PLUGIN 端口监听来自 Meshtastic 应用的广播数据包，从而接收并解析 LoRa 网络中的消息。
+3. 监听 Meshtastic Android 应用的广播：插件通过 `ATAK_PLUGIN` 端口监听来自 Meshtastic 应用的广播数据包，从而接收并解析 LoRa 网络中的消息。
 
 ### Meshtastic Android 应用的作用
 
