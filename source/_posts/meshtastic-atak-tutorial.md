@@ -102,7 +102,7 @@ ATAK 插件是让 MeshTastic 与 ATAK 数据打通的关键。
 
 这些内容对于想要充分发挥 Meshtastic 与 ATAK 结合功能的小伙伴们尤为重要！
 
-### ATAK 插件的核心功能
+### ATAK 插件功能
 
 Meshtastic 官方 ATAK 插件的主要作用有以下三点：
 
@@ -112,7 +112,7 @@ Meshtastic 官方 ATAK 插件的主要作用有以下三点：
 
 3. 监听 Meshtastic Android 应用的广播：插件通过 ATAK_PLUGIN 端口监听来自 Meshtastic 应用的广播数据包，从而接收并解析 LoRa 网络中的消息。
 
-### Meshtastic Android 应用的关键作用
+### Meshtastic Android 应用的作用
 
 在使用 ATAK 插件时，Meshtastic Android 应用不仅是一个配置工具，更是整个系统正常运作的核心部分：
 
@@ -122,7 +122,7 @@ Meshtastic 官方 ATAK 插件的主要作用有以下三点：
 
 确保 Meshtastic 应用始终在后台运行是插件正常工作的基础。如果应用未运行或崩溃，ATAK 插件将无法绑定 IMeshService 服务，导致通信中断。
 
-### 使用场景说明
+### 使用场景
 
 插件的工作模式决定了它的适用场景，其中主要分为两种常见的使用模式：团队通信和独立位置广播。每种模式在实际应用中都有其独特的优势和适用范围。
 
