@@ -169,7 +169,9 @@ Meshtastic 与 ATAK 的结合为离网场景下的团队协作开辟了一片新
 
 如果在操作过程中遇到问题，欢迎随时 [加入 Meshtastic 中国社区](/contact/) 与我们交流。
 
-## 参考资料
+---
+
+#### 参考
 
 本文的内容主要参考了以下两份权威资料：《Meshtastic ATAK Plugin》视频（来自 Meshtastic 官方 YouTube 频道）和 Meshtastic 官方文档中的 ATAK Plugin 部分。
 
