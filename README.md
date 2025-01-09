@@ -17,6 +17,8 @@
 
 ## 社区最受欢迎的文章
 
+自 2024 年 11 月 25 日 社区第一篇文章发布以来的 45 天里，社区共创作了 31 篇文章，平均每 1.45 天 发布一篇。
+
 以下是目前 Meshtastic 中国社区中最受欢迎的文章，欢迎大家阅读和分享：
 
 1. 《[太阳能 Meshtastic 节点：自带太阳能接口 vs MPPT？太阳能板规格如何选？](https://meshcn.net/T114-solar-panel-requirement-calculate/)》
