@@ -1,5 +1,5 @@
 ---
-title: MeshTastic 和 ATAK 插件使用教程
+title: 军迷狂喜：ATAK 插件打通 Meshtastic 指南
 date: 2025-01-07 15:47:00
 description: "探索如何结合 Meshtastic 和 ATAK，在没有蜂窝信号或 Wi-Fi 的环境中实现低成本的地理位置共享和即时通信！
 
@@ -15,7 +15,7 @@ Meshtastic 和 ATAK 的结合，为团队提供了一种低成本、高效的方
 
 一位位于非洲的 Meshtastic China 社区群友，打算将 Meshtastic 和 ATAK 应用于安保系统，为当地的紧急响应和安防资源调度提供了可靠的通信支持。想了解更多关于非洲农场和军警场景中的精彩应用？别错过我们的年度总结文章——《[2024 的 Meshtastic 中国社区：搞笑、有料、充满创意](/announcement-2024-last-day-annual/)》！
 
-在本文中，我们将详细介绍如何配置和使用 Meshtastic 与 ATAK 插件，让您的团队在偏远地区也能保持高效协作。
+在本教程中，我们将详细介绍如何配置和使用 Meshtastic 与 ATAK 插件，让您的团队在偏远地区也能保持高效协作。
 
 ## 设置
 
