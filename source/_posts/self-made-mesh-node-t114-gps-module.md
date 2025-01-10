@@ -4,7 +4,7 @@ date: 2025-01-10 10:31:00
 thumbnail: https://meshcn.net/self-made-mesh-node-t114-gps-module/t114-diy-gps-front-back-merge.webp
 description: "谁说好用的 GNSS 模块一定贵？看完这篇文章你会发现，官方 60 到 70 块的溢价，其实 20 块就能搞定！省下来的钱能多吃两顿沙县了，简直是省钱党的福音。还等什么？赶紧 DIY，保护钱包！"
 author:
-  name: "刘晓鹏"
+  name: "西安-QinlingMesh"
 categories:
  - 教程
 tags:
@@ -14,7 +14,7 @@ tags:
  - T114
 ---
 
-> 本次 [投稿](https://meshcn.net/meshcn-blog-call-for-articles/) 来自西安的*刘晓鹏*，他用实际行动展现了 DIY 的无限可能。感谢他的用心分享，为社区带来了如此实用且高性价比的 DIY 方案。
+> 本次 [投稿](https://meshcn.net/meshcn-blog-call-for-articles/) 来自*西安-QinlingMesh*，他用实际行动展现了 DIY 的无限可能。感谢他的用心分享，为社区带来了如此实用且高性价比的 DIY 方案。
 > 同时，也欢迎大家 [踊跃投稿](/meshcn-blog-call-for-articles/)，把你们的创意和经验分享给更多的 Meshtastic 爱好者！
 
 ## 编者按
