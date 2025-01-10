@@ -31,9 +31,11 @@ tags:
 
 ## Heltec T114 的定位模块
 
-Heltec T114 是社区里颇为流行的 Meshtastic 方案。在社区博客右上角搜索 T114，你能发现大量文章。
+Heltec T114 是社区里颇为流行的 Meshtastic 方案。在社区博客右上角点击放大镜图标 🔍 搜索 T114，你能发现大量文章。
 
 而在购买 T114 时，往往有不同规格组合可供选择。每个组合覆盖了不同用户的需求，从最低功耗的基础版本到全功能的顶配版本，可谓选择丰富。
+
+![原装自带的 Heltec T114 和移远 L76K GNSS/GPS 模块](./self-made-mesh-node-t114-gps-module/original_heltec_t114_connect_original_l76k_gps.webp)
 
 但仔细分析后你会发现，加装 GNSS 模块的版本普遍贵了不少，这也是为什么要 DIY 的原因，除了享受动手的乐趣，更重要的是可以省下不少钱呢。
 
