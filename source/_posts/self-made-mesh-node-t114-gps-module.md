@@ -14,7 +14,7 @@ tags:
  - T114
 ---
 
-> 本次 [投稿](https://meshcn.net/meshcn-blog-call-for-articles/) 来自*西安-QinlingMesh*，他用实际行动展现了 DIY 的无限可能。感谢他的用心分享，为社区带来了如此实用且高性价比的 DIY 方案。
+> 本次投稿来自*西安-QinlingMesh*，他用实际行动展现了 DIY 的无限可能。感谢他的用心分享，为社区带来了如此实用且高性价比的 DIY 方案。
 > 同时，也欢迎大家 [踊跃投稿](/meshcn-blog-call-for-articles/)，把你们的创意和经验分享给更多的 Meshtastic 爱好者！
 
 ## 编者按
