@@ -79,12 +79,21 @@ RA62 模块如下：
      adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p /dev/tty.usbmodem21201
      ```
 
-### 2. 刷入 Meshtastic
+### 2. 刷入 nrf_erase2.uf2
+
+1. 在固件下载页面 [Meshtastic Firmware](https://mrekin.duckdns.org/flasher/) 中找到适配的擦除固件（例如 `Meshtastic_nRF52_factory_erase_v3_S140_7.3.0.uf2` 或 `Meshtastic_nRF52_factory_erase_v3_S140_6.3.0.uf2`）。  
+   根据 SoftDevice 主版本号选择对应文件：
+   - 7.x.x：使用 `Meshtastic_nRF52_factory_erase_v3_S140_7.3.0.uf2`。
+   - 6.x.x：使用 `Meshtastic_nRF52_factory_erase_v3_S140_6.3.0.uf2`。
+2. 将设备短接 RST 和 GND 两下，进入刷机模式（设备会以可移动盘符形式显示）。
+3. 将 `nrf_erase2.uf2` 文件拷贝到该移动盘符，等待设备自动重启。
+
+### 3. 刷入 Meshtastic
 
 1. 打开 [固件下载页面](https://mrekin.duckdns.org/flasher/)，选择 `nrf52_promicro_diy`，下载 `nrf52_promicro_diy_tcxo-v2.5.19.33e5a045.daily.uf2`。
 2. 连续快速短接 RST 和 GND 两下进入刷机模式，出现移动盘符，将 `*.uf2` 文件拷贝到移动盘中，等待设备自动重启。
 
-### 3. 设置 Meshtastic
+### 4. 设置 Meshtastic
 
 您可以选择以下两种方式设置：
 - 通过 Web 模式：使用 [client.meshtastic.org](https://client.meshtastic.org) 连接串口进行设置。
