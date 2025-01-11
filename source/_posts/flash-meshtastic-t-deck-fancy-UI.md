@@ -2,7 +2,9 @@
 title: 如何在 Lilygo T-Deck 刷写 Meshtastic Fancy UI
 date: 2024-11-26 20:15:20
 thumbnail: https://www.jeffgeerling.com/sites/default/files/images/lilygo-t-deck-on-workbench-new-firmware.jpeg
-description: 
+description: "还在用 T-Deck 那个“朴素”的默认界面？试试 Meshtastic FancyUI！这款专为大屏优化的界面，不仅让你的 T-Deck 操作体验接近手机 App，还能让它真正成为 Meshtastic 网络的颜值担当。"
+author:
+  name: "朱哲 | 社区群成员"
 categories:
  - 教程
 tags:
@@ -13,7 +15,7 @@ tags:
 
 > 本文核心内容来自社区活跃贡献者 [朱哲](https://github.com/zhuzhe1983) 。原文发布在 [Bilibili 平台](https://www.bilibili.com/opus/1001867994447478787)。
 
-Lilygo T-Deck 是一款集成了 Wi-Fi、蓝牙及扩展接口的物联网开发板，配备了较大的彩色屏幕，使其在 Meshtastic 项目中具备优良的显示和用户交互能力。然而，Meshtastic 默认的嵌入式系统界面（TFT 屏幕体验）并没有充分利用 T-Deck 的硬件能力。为了解决这一问题，社区开发了 Meshtastic Fancy UI，这是一款专为 T-Deck 屏幕优化的 UI，旨在提供接近 Meshtastic App 的用户体验。
+Lilygo T-Deck 是一款集成了 Wi-Fi、蓝牙及扩展接口的物联网开发板，配备了较大的彩色屏幕，使其在 Meshtastic 项目中具备优良的显示和用户交互能力。然而，Meshtastic 默认的嵌入式系统界面（TFT 屏幕体验）并没有充分利用 T-Deck 的硬件能力。为了解决这一问题，社区开发了 Meshtastic FancyUI，这是一款专为 T-Deck 屏幕优化的 UI，旨在提供接近 Meshtastic App 的用户体验。
 
 ![](./flash-meshtastic-t-deck-fancy-UI/T-Deck-Plus-External-Antenna-Meshtastic.webp)
 
