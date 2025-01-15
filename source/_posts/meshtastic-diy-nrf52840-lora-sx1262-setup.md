@@ -8,7 +8,7 @@ author:
 categories:
  - 教程
 tags:
- - FakeTec
+ - fakeTec
  - DIY
  - nRF52
 ---
