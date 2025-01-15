@@ -5,6 +5,9 @@ thumbnail: https://meshcn.net/bluetooth-ota-nrf52-meshtastic-tutorial/iOS-Meshta
 description: "还在爬高上低用 USB 数据线更新设备吗？蓝牙 OTA 更新 nRF52 Meshtastic 设备绝对是解放双手的神器！特别是当你的 nRF52 设备装在屋顶、树上时，无线 OTA 让你不费吹灰之力即可完成固件升级。"
 categories:
  - 教程
+tags:
+ - fakeTec
+ - nRF52
 ---
 
 在物联网设备和远程监控领域，固件更新是一个不可忽视的重要环节。许多长续航 Meshtastic 设备，如 Lilygo T-Echo、[Heltec T114](/heltec-t114-portable-meshtastic-node)，以及社区热门的开源高性价比硬件 [Faketec PCB](/announcement-2024-last-day-annual/#faketec-项目：DIY-的新巅峰)，都采用了 Nordic 的 nRF52 芯片。

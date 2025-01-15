@@ -5,6 +5,8 @@ description: "新年快乐！2024 年，Meshtastic 中国社区从 70 人飞速�
 thumbnail: https://meshcn.net/announcement-2024-last-day-annual/kelly-sikkema-XQG-l15ntNk-unsplash.webp
 categories:
  - 公告
+tags:
+ - fakeTec
 ---
 
 2024 年的最后一天，我们终于可以稍微松口气，放下手里的电烙铁，抹掉飞线上的助焊剂（焊武帝们：你们真的放下了吗？）。
@@ -64,7 +66,7 @@ categories:
 
 今年，Meshtastic 中国社区不仅吸引了更多用户，还吸引了厂商的目光，许多厂商代表亲自加入了群聊。
 
-继 [上次趣闻中提到的 EByte 工程师](/announcement-ebyte-out-stock-70-people-community/) 之后，Heltec 和 Seeed Studio 的产品经理也纷纷加入社区，让原本的极客群顿时多了一些「科班色彩」。  
+继 [上次趣闻中提到的亿佰特 EByte 工程师](/announcement-ebyte-out-stock-70-people-community/) 之后，Heltec 和 Seeed Studio 的产品经理也纷纷加入社区，让原本的极客群顿时多了一些「科班色彩」。  
 
 Heltec 的产品经理一进群就开始了「加班模式」，对用户提出的硬件疑问进行详尽解答。有一次，群友无意间在 Heltec T114 上发现了两个空白焊盘，立刻发到群里讨论。正巧，Heltec 的产品经理在场，大家才得知，这两个焊盘原来是设计给 RTC 和闪存 Flash 使用的，但在当前版本中并未激活。这番解答让群友大呼过瘾，纷纷感慨：「有产品经理在群里，真是硬核玩家的福音！」
 
