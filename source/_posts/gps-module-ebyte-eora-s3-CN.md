@@ -11,7 +11,7 @@ tags:
  - GPS  
 ---
 
-本文提供了一份**EByte E108-GN03D GPS 模块**与**EByte EoRa-S3 开发板**连接的详细教程，并使用**Meshtastic 固件**实现 GPS 数据显示。通过本教程，您将学会如何连接和配置 GPS 模块，使其可以将经度、纬度和海拔数据发送到 Meshtastic 设备的 OLED 屏幕上。
+本文提供了一份 **亿佰特 EByte E108-GN03D GPS 模块** 与 **EByte EoRa-S3 开发板** 连接的详细教程，并使用**Meshtastic 固件**实现 GPS 数据显示。通过本教程，您将学会如何连接和配置 GPS 模块，使其可以将经度、纬度和海拔数据发送到 Meshtastic 设备的 OLED 屏幕上。
 
 ## 第一步：参考文档
 
