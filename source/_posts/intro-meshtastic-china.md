@@ -74,7 +74,7 @@ Meshtastic 还提供了位置共享功能，用户可以选择启用该功能，
 ## 如何加入 Meshtastic 中国？
 
 1.**获取设备** 
-   - 购买或组装 Meshtastic 设备，例如 [LilyGO T-Beam](https://example.com/t-beam) 或 [LilyGO T-Echo](https://example.com/t-echo)。
+   - 购买或组装 Meshtastic 设备。从数据上看，目前最流行的是 Heltec LoRa32 v3 和 Heltec T114。
 
 2.**根据场景选择供电方式** 
    - 户外节点建议使用太阳能板和电池供电系统，确保设备能够长期稳定运行。  
