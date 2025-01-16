@@ -93,6 +93,8 @@ Meshtastic 还提供了位置共享功能，用户可以选择启用该功能，
 
 我们提供丰富的资源，帮助您更好地了解和使用 Meshtastic：
 
-- [Meshtastic 入门教程](#)
-- [如何搭建自己的网状网络](#)
-- [技术文档与开发者指南](#)
+- [Meshtastic 新手入门指南](/introduction/)
+- [如何搭建自己的太阳能节点](/meshtastic-solar-node-build-simple-sma-antenna-t114/)
+- [如何使用互联网跨省连接其他 Meshtastic 网友](/short-tutorial-mqtt-android/)
+
+如果你有更多的疑问，欢迎阅读博客上其余 40 篇文章答疑。同时，欢迎你加入 [Meshtastic 中国社区群组](/contact) 来和志同道合的群友交流沟通。
