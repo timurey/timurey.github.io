@@ -91,9 +91,9 @@ Heltec T114 的 GNSS 接线端子是其设计的重要部分，它的布局和�
 
 从以下原理图中，能看到 Heltec T114 GNSS 端子每个引脚的定义。  
 
-![](./self-made-mesh-node-t114-gps-module/t114图1.png)
+<!-- ![](./self-made-mesh-node-t114-gps-module/t114图1.png)
 
-![](./self-made-mesh-node-t114-gps-module/t114图2.png)
+![](./self-made-mesh-node-t114-gps-module/t114图2.png) -->
 
 ### GNSS 定位模块——移远 L76KB-A58
 
