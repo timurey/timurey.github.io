@@ -60,24 +60,50 @@ RA62 模块如下：
 ### 1. 刷 Bootloader
 
 1. 打开 [Adafruit nRF52 Bootloader](https://github.com/adafruit/Adafruit_nRF52_Bootloader?tab=readme-ov-file) 下载 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip`。
+
 2. 在 Python 下安装 `adafruit-nrfutil` 模块：
 
    ```bash
    pip install adafruit-nrfutil
    ```
 
-3. 通过以下命令刷入 Loader：
-   - **Windows 10** 下（假设串口为 COM11）：
+   **注意：**  
+   确保 Python 已正确安装并添加到系统环境变量中，否则可能无法在命令行中运行 `pip`。  
+   **检查方式：**  
+   1. 打开终端（Windows 下可按 Win + R 输入 `cmd` 打开命令提示符）。  
+   2. 输入以下命令：  
+      ```bash
+      python --version
+      pip --version
+      ```  
+   如果未能正确显示版本号，请检查 Python 是否安装，或者将其手动添加到系统环境变量。  
+   **如何添加 Python 到环境变量：**  
+   - 进入 Windows 设置 → 系统 → 关于 → 高级系统设置 → 环境变量。  
+   - 在“系统变量”中找到 Path，编辑并添加 Python 的安装路径（如 `C:\Python39\`）。
 
+3. 将设备短接 RST 和 GND 两下，进入刷机模式（设备会以可移动盘符形式显示）。
+
+4. 通过以下命令刷入 Loader：  
+   **命令格式（通用）：**  
+   ```bash
+   adafruit-nrfutil dfu serial -pkg <bootloader.zip> -p <设备端口>
+   ```  
+   **Windows 示例：** 假设设备端口为 COM11  
+   - 确保已进入 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip` 所在的文件夹。  
+   - 在该文件夹中，按住 Shift 键，右键空白处，选择“在此处打开终端”或“在此处打开 PowerShell”。  
+   - 执行以下命令：  
      ```bash
      adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p COM11
-     ```
-
-   - **Linux** 下：
-
-     ```bash
-     adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p /dev/tty.usbmodem21201
-     ```
+     ```  
+   **Linux 示例：** 
+   - 假设设备端口为 `/dev/ttyUSB0`  
+      ```bash
+      adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p /dev/ttyUSB0
+      ```
+   - 假设设备端口为 `/dev/tty.usbmodem21201`  
+      ```bash
+      adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p /dev/tty.usbmodem21201
+      ```
 
 ### 2. 刷入 nrf_erase2.uf2
 
