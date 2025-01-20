@@ -59,51 +59,74 @@ RA62 模块如下：
 
 ### 1. 刷 Bootloader
 
-1. 打开 [Adafruit nRF52 Bootloader](https://github.com/adafruit/Adafruit_nRF52_Bootloader?tab=readme-ov-file) 下载 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip`。
+首先，您需要下载和安装相关工具，并将设备置于刷机模式以进行 Bootloader 的更新。
 
-2. 在 Python 下安装 `adafruit-nrfutil` 模块：
+#### 下载和准备
 
-   ```bash
-   pip install adafruit-nrfutil
-   ```
+从 [Adafruit nRF52 Bootloader](https://github.com/adafruit/Adafruit_nRF52_Bootloader?tab=readme-ov-file) 下载 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip`。
 
-   **注意：**  
-   确保 Python 已正确安装并添加到系统环境变量中，否则可能无法在命令行中运行 `pip`。  
-   **检查方式：**  
-   1. 打开终端（Windows 下可按 Win + R 输入 `cmd` 打开命令提示符）。  
-   2. 输入以下命令：  
-      ```bash
-      python --version
-      pip --version
-      ```  
-   如果未能正确显示版本号，请检查 Python 是否安装，或者将其手动添加到系统环境变量。  
-   **如何添加 Python 到环境变量：**  
-   - 进入 Windows 设置 → 系统 → 关于 → 高级系统设置 → 环境变量。  
-   - 在“系统变量”中找到 Path，编辑并添加 Python 的安装路径（如 `C:\Python39\`）。
+确保 Python 已安装并正确配置。通过终端运行以下命令安装 `adafruit-nrfutil` 模块：
 
-3. 将设备短接 RST 和 GND 两下，进入刷机模式（设备会以可移动盘符形式显示）。
+```bash
+pip install adafruit-nrfutil
+```
 
-4. 通过以下命令刷入 Loader：  
-   **命令格式（通用）：**  
+{% note tip 检查 Python 安装和环境变量 %}
+
+如何检查 Python 是否已正确安装并添加到系统环境变量？
+
+打开终端（在 Windows 系统中，按 Win + R 输入 `cmd` 打开命令提示符），运行以下命令：
+`python --version`  
+`pip --version`  
+
+如果未能正确显示版本号，请检查 Python 的安装情况，或者手动将 Python 路径添加到环境变量。
+
+如何添加环境变量方法（Windows 系统）? 
+
+进入“设置” → “系统” → “关于” → “高级系统设置” → “环境变量”，在“系统变量”中编辑 `Path`，添加 Python 的安装路径，例如 `C:\Python39\`。具体路径取决于你的电脑 Python 安装路径，请勿照搬我这个例子。
+
+```bash
+# 检查 Python 和 pip 的版本
+python --version
+pip --version
+```
+
+{% endnote %}
+
+
+
+
+#### 刷机步骤
+
+1. 将设备短接 RST 和 GND 两下，进入刷机模式（设备会显示为一个可移动盘符）。
+2. 打开终端，进入 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip` 所在的目录。
+3. 使用以下命令刷入 Bootloader（具体命令根据操作系统和设备端口调整）：
+
+   **通用命令格式**：
    ```bash
    adafruit-nrfutil dfu serial -pkg <bootloader.zip> -p <设备端口>
-   ```  
-   **Windows 示例：** 假设设备端口为 COM11  
-   - 确保已进入 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip` 所在的文件夹。  
-   - 在该文件夹中，按住 Shift 键，右键空白处，选择“在此处打开终端”或“在此处打开 PowerShell”。  
-   - 执行以下命令：  
+   ```
+
+#### 示例操作
+
+- **Windows 系统**  
+  假设设备端口为 `COM11`：
+  1. 在 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip` 所在文件夹中按住 `Shift` 键，右键空白处，选择“在此处打开终端”。
+  2. 执行以下命令：  
      ```bash
      adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p COM11
-     ```  
-   **Linux 示例：** 
-   - 假设设备端口为 `/dev/ttyUSB0`  
-      ```bash
-      adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p /dev/ttyUSB0
-      ```
-   - 假设设备端口为 `/dev/tty.usbmodem21201`  
-      ```bash
-      adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p /dev/tty.usbmodem21201
-      ```
+     ```
+
+- **Linux 系统**  
+  假设设备端口为 `/dev/ttyUSB0`：
+  ```bash
+  adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p /dev/ttyUSB0
+  ```
+
+  或者 `/dev/tty.usbmodem21201`：
+  ```bash
+  adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p /dev/tty.usbmodem21201
+  ```
 
 ### 2. 刷入 nrf_erase2.uf2
 
