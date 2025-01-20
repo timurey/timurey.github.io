@@ -32,7 +32,7 @@ mathjax: false
 
 ![lora_modules_comparison_sx1268_400MM22S_400M22S](./Meshtastic-LoRa-RF-Module-Power-Consumption-Test/lora_modules_comparison_sx1268_400MM22S_400M22S.jpg)
 
-本次测试将重点比较三款射频模块——硅传 SX1268、亿佰特 E22 400MM22S 和 E22 400M22S，分析它们在 Meshtastic 配置下的功耗差异。
+本次测试将重点比较三款国内市场常见的 LoRa 射频模块——硅传 SX1268、亿佰特 E22 400MM22S 和 E22 400M22S，分析它们在 Meshtastic 配置下的功耗差异。
 
 我们将测试它们在不同工作模式下的发射电流、接收电流和平均电流，以便为 Meshtastic 用户提供更准确的电池容量、太阳能供电和设备续航的参考数据。此外，这些测试结果还将有助于我们根据具体需求选择最合适的射频模块，既保证通信质量，又最大限度地提高设备的能效。
 
