@@ -59,7 +59,7 @@ mathjax: false
 
 {% note info 编者注 %}
 
-此格式为 RTTTL（铃声传输文本语言）铃声定义。`device.buzzer_gpio` 指定设备中外部电路连接的 GPIO 引脚。对于支持 PWM 蜂鸣器的设备，可以通过将 `use_pwm` 属性设置为 `TRUE`，使用蜂鸣器进行通知。在这种情况下，将忽略普通蜂鸣器引脚设置，而改用 `device.buzzer_gpio`。
+Meshtastic 蜂鸣器铃声旋律使用 RTTTL（铃声传输文本语言）铃声格式定义。`device.buzzer_gpio` 指定设备中外部电路连接的 GPIO 引脚。对于支持 PWM 蜂鸣器的设备，可以通过将 `use_pwm` 属性设置为 `TRUE`，使用蜂鸣器进行通知。在这种情况下，将忽略普通蜂鸣器引脚设置，而改用 `device.buzzer_gpio`。
 
 如果启用 PWM 模式，设备会使用 RTTTL 铃声作为通知音。你可以在 [这里](https://www.laub-home.de/wiki/RTTTL_Songs) 找到 RTTTL 铃声的示例，并通过客户端应用程序将其上传到设备。
 
