@@ -21,7 +21,7 @@ Meshtastic 是一种基于 LoRa 技术的离网通信平台。它通过低成本
 
 在开始使用 Meshtastic 之前，请访问并仔细阅读官方提供的入门指南：[Meshtastic 官方指南](https://meshtastic.org/docs/about/)。
 
-{% note warning 先天线，后开机 %}
+{% note warning 切记：先天线，后开机 %}
 
 此外，务必注意，供电前一定要先连接天线，否则可能会损坏设备。
 
