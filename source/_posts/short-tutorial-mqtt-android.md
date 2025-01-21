@@ -2,11 +2,13 @@
 title: 【精简版】新手快速接入 Meshtastic MQTT 官方服务器
 date: 2024-12-19 18:31:20
 description: 涵盖固件烧录、设备连接、基础设置以及消息测试，步骤清晰，操作简单，帮助用户在最短时间内完成 MQTT 配置并投入使用。
+author:
+  name: "Yuri_su | 广州社区成员"
 categories:
  - 教程
 ---
 
-> 感谢广州群友 Yuri 将自己的经验提炼并整理成大纲，本文内容框架基于 Yuri 的贡献。
+> 感谢广州群友 Yuri Su 将自己的经验提炼并整理成大纲，本文内容框架基于 Yuri Su 的贡献。
 
 这一篇文章是以 Meshtastic Android（安卓）App 进行演示。如果你是苹果 iOS 用户，请参考 MeshCN 社区的另一篇文章—— [《如何设置 Meshtastic MQTT 功能》](https://meshcn.net/how-to-connect-meshtastic-mqtt/)。
 
