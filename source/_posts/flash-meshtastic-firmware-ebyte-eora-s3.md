@@ -12,6 +12,38 @@ tags:
 
 本文将详细介绍如何通过 Meshtastic 官方在线工具，为亿佰特 Ebyte EoRa-S3 模块烧录 Meshtastic 固件。整个过程简单易懂，适合不同技术水平的用户操作。
 
+不仅仅是本文提到的 Ebyte（亿佰特）EoRa 系列模块，所有搭载 ESP32 的 Meshtastic 开发板都可以参考这篇文章的操作流程。只需在第二步选择设备时，选择您使用的具体开发板型号即可。
+
+不仅仅是本文提到的 Ebyte（亿佰特）EoRa 模块，所有搭载 ESP32 的 Meshtastic 开发板都可以参考这篇文章的操作流程。您只需在第二步选择设备时，选择对应的设备型号即可。以下是当前官方支持的设备型号完整列表：
+
+1. LilyGO 系列
+   - LilyGO T-LoRa V2.1-1.6
+   - LilyGO T-Beam
+   - LilyGO T-LoRa V2.1-1.8
+   - LilyGO T-Beam Supreme
+   - LilyGO T-LoRa T3-S3
+   - LilyGO T-LoRa T3-S3 E-Ink
+   - LilyGO T-Deck
+   - LilyGO T-Watch S3
+
+2. Heltec 系列
+   - Heltec V3
+   - Heltec Wireless Stick Lite V3
+   - Heltec Wireless Tracker V1.1
+   - Heltec Wireless Paper
+   - Heltec Vision Master T190
+   - Heltec Vision Master E213
+   - Heltec Vision Master E290
+
+3. Seeed 系列
+   - Seeed SenseCAP Indicator
+   - Seeed Xiao ESP32-S3
+
+4. 其他品牌设备
+   - Station G2（B&Q）
+
+以上列出的型号均为官方支持的设备，可以在 Meshtastic Flasher 工具中选择并进行固件烧录。无论您的设备是搭载 ESP32 或 ESP32-S3 芯片，只需选择正确的设备型号，就可以参照本文的步骤轻松完成烧录。
+
 ## 准备工作
 
 在开始烧录之前，请确认以下物品已准备齐全：
@@ -34,6 +66,8 @@ tags:
 ### 第二步：选择设备
 
 在页面的设备下拉菜单中，选择 `Ebyte EoRa-S3`。这一选项是专门为 Ebyte EoRa-S3 系列模块设计的，可以确保烧录过程顺利完成。
+
+> 如果你的设备不是 `Ebyte EoRa-S3`，请选择对应的正确型号。
 
 ![](./flash-meshtastic-firmware-ebyte-eora-s3/meshtastic-flasher-screeenshot.webp)
 
