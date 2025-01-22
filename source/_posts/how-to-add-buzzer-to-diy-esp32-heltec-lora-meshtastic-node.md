@@ -2,7 +2,7 @@
 title: 如何为你的 ESP32 Meshtastic 节点添加铃声
 date: 2025-01-21 10:12:20
 thumbnail: /how-to-add-buzzer-to-diy-esp32-heltec-lora-meshtastic-node/kevin-albrich-6HTTlcLwnBc-unsplash-cropped.webp
-description: "为你的 Meshtastic DIY 项目加点“声”色！这篇文章将带你轻松搞定如何为 ESP32 Lora Meshtastic 节点添加蜂鸣器。不仅硬件布线手把手教你，软件设置也一步步详解。"
+description: "为你的 Meshtastic DIY 项目加点「声」色！这篇文章将带你轻松搞定如何为 ESP32 Lora Meshtastic 节点添加蜂鸣器。不仅硬件布线手把手教你，软件设置也一步步详解。"
 categories:
  - 教程
 tags:
@@ -52,7 +52,7 @@ mathjax: false
 
 1. 打开 Meshtastic 应用（本指南以 iOS 为例）。  
 2. 进入设置页面。  
-3. 在模块配置部分，找到“外部通知”选项。  
+3. 在模块配置部分，找到「外部通知」选项。  
 4. 启用以下设置：启用通知、接收消息时提醒、使用 PWM 蜂鸣器。  
 5. 向下滚动，找到主 GPIO 设置，启用 激活，并将 输出引脚 GPIO 设置为 GPIO 15。  
 6. 返回设置页面，进入铃声设置，选择你喜欢的铃声旋律。

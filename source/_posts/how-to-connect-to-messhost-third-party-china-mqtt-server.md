@@ -90,7 +90,7 @@ tags:
 
 ### 如何在地图上找到哪些设备是通过 MESH 网状网络连接到我的？
 
-首先你需要上报你的GPS信息，并打开 Module Config - Neighbor Info 下面的相关设置。 等一会之后就可以在地图上点击的你设备，在气泡最下面点击” Show Neighbours (We Heard) ” 。这样就能看到通过MESH网络, 要注意的是，如果对方没有GPS信息或者没有打开Neighbor Info的设置，你们之间的Neighbor info也不会出现在地图上，只会出现在你的本地节点数里面。
+首先你需要上报你的GPS信息，并打开 Module Config - Neighbor Info 下面的相关设置。 等一会之后就可以在地图上点击的你设备，在气泡最下面点击「Show Neighbours (We Heard)」 。这样就能看到通过MESH网络, 要注意的是，如果对方没有GPS信息或者没有打开Neighbor Info的设置，你们之间的Neighbor info也不会出现在地图上，只会出现在你的本地节点数里面。
 
 ![配图11](./how-to-connect-to-messhost-third-party-china-mqtt-server/11.webp)
 

@@ -2,7 +2,7 @@
 title: 如何在 Lilygo T-Deck 刷写 Meshtastic Fancy UI
 date: 2024-11-26 20:15:20
 thumbnail: https://www.jeffgeerling.com/sites/default/files/images/lilygo-t-deck-on-workbench-new-firmware.jpeg
-description: "还在用 T-Deck 那个“朴素”的默认界面？试试 Meshtastic FancyUI！这款专为大屏优化的界面，不仅让你的 T-Deck 操作体验接近手机 App，还能让它真正成为 Meshtastic 网络的颜值担当。"
+description: "还在用 T-Deck 那个「朴素」的默认界面？试试 Meshtastic FancyUI！这款专为大屏优化的界面，不仅让你的 T-Deck 操作体验接近手机 App，还能让它真正成为 Meshtastic 网络的颜值担当。"
 author:
   name: "朱哲 | 社区群成员"
 categories:

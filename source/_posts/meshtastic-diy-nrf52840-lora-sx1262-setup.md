@@ -83,7 +83,7 @@ pip install adafruit-nrfutil
 
 如何添加环境变量方法（Windows 系统）? 
 
-进入“设置” → “系统” → “关于” → “高级系统设置” → “环境变量”，在“系统变量”中编辑 `Path`，添加 Python 的安装路径，例如 `C:\Python39\`。具体路径取决于你的电脑 Python 安装路径，请勿照搬我这个例子。
+进入「设置」 → 「系统」 → 「关于」 → 「高级系统设置」 → 「环境变量」，在「系统变量」中编辑 `Path`，添加 Python 的安装路径，例如 `C:\Python39\`。具体路径取决于你的电脑 Python 安装路径，请勿照搬我这个例子。
 
 ```bash
 # 检查 Python 和 pip 的版本
@@ -111,7 +111,7 @@ pip --version
 
 - **Windows 系统**  
   假设设备端口为 `COM11`：
-  1. 在 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip` 所在文件夹中按住 `Shift` 键，右键空白处，选择“在此处打开终端”。
+  1. 在 `nice_nano_bootloader-0.9.2_s140_6.1.1.zip` 所在文件夹中按住 `Shift` 键，右键空白处，选择「在此处打开终端」。
   2. 执行以下命令：  
      ```bash
      adafruit-nrfutil dfu serial -pkg nice_nano_bootloader-0.9.2_s140_6.1.1.zip -p COM11
