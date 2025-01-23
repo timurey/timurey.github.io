@@ -52,7 +52,7 @@ language_switcher: false
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  since: 2009
+  since: 2025
 
   # Icon between year and copyright info.
   icon:
@@ -89,7 +89,7 @@ creative_commons:
   license: by-nc-sa
   sidebar: true
   post: true
-  language: deed.zh
+  language: deed.ru
 
 
 # ---------------------------------------------------------------
@@ -269,13 +269,13 @@ reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: enable
   animation: false
-  comment: 如果内容对你有用，不妨捐款支持我。（最近在健身，一天吃五顿，（（穷
+  comment: 如果内容对你有用，不妨捐款支持我。
 
 reward:
-  wechatpay: /images/wechatpay.jpeg
-  alipay: /images/alipay.jpeg
+  # wechatpay: /images/wechatpay.jpeg
+  # alipay: /images/alipay.jpeg
   #paypal: /images/paypal.png
-  #bitcoin: /images/bitcoin.png
+  bitcoin: /images/bitcoin.png
 
 # Subscribe through Telegram Channel, Twitter, etc.
 # Usage: `Key: permalink || icon` (Font Awesome)

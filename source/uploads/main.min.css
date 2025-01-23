@@ -980,6 +980,9 @@ overflows table th {
     list-style: none
 }
 
+.post__translate {
+  border-left: 4px solid #43f336;
+}
 .post__license p {
     margin: 3px 1px 3px 1px;
     padding: 0

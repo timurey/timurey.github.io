@@ -1,0 +1,37 @@
+page: 
+  pagination: 'Страница %s'
+  prev_page: Предыдущая
+  next_page: Следующая
+navbar:
+  home: Домой
+  link: Ссылка
+  archive: Архив
+  category: Категория
+  tag: Tag
+  top: Наверх
+search:
+  main: "Поиск"
+  placeholder: "Please enter a keyword..."
+post:
+  top: Top
+  read_more: Read More
+  sticky: Sticky
+  comments: Комментарии
+  comments_placeholder: Unable to load %s, please make sure your network can access.
+  updated: 'обновлено '
+  prev: Предыдущий пост
+  next: Следующий пост
+  toc: Article Directory
+  copyright: 
+    author: 'Автор: '
+    permalink: 'Постоянная ссылка: '
+    original: 'Автор оригинала: '
+  expire: "Эта статья была обновлена %s дней назад, информация, содержащаяся в статье может быть устаревшей."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

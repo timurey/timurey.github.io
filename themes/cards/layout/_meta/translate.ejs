@@ -1,0 +1,12 @@
+<% if (page.author?.source) { %>
+  <div class="post__license post__translate">
+    <p>
+      <a href="<%= page.author.source.url %>">
+        <strong>
+          <%= __('post.copyright.original') %>
+        </strong>
+        <%= page.author.source.author %>
+      </a>
+    </p>
+  </div>
+  <% } %>
