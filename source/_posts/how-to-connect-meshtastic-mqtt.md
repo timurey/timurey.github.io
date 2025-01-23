@@ -3,7 +3,7 @@ title: 如何设置 Meshtastic MQTT 功能
 date: 2024-11-29 14:47:20
 thumbnail: https://meshcn.net/how-to-connect-meshtastic-mqtt/mqtt-options-config-screenshot-ios.webp
 categories:
- - 教程
+ - Учебник
 tags:
  - MQTT
 ---

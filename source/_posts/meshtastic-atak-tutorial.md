@@ -6,7 +6,7 @@ description: "探索如何结合 Meshtastic 和 ATAK，在没有蜂窝信号或 
 本文详细讲解从设备配置到插件安装的全流程。这种搭配尤其适用于需要离网通信的场景，例如户外探险、打猎、灾害应急、军事模拟（MilSim）或其他需要通过 Mesh 网络实时共享信息的任务。"
 thumbnail: https://meshcn.net/meshtastic-atak-tutorial/airsoft-player-milsim-atak-phone-operate-cropped.webp
 categories:
- - 教程
+ - Учебник
 ---
 
 Meshtastic 和 ATAK 的结合，为团队提供了一种低成本、高效的方式，在无 4G、5G 蜂窝信号或 Wi-Fi 环境下实现地理位置共享和即时通信。

@@ -6,7 +6,7 @@ description: "想自己动手打造一个低功耗、远距离通信的 Meshtast
 author:
   name: "重庆-BG8HVK | 社区群成员"
 categories:
- - 教程
+ - Учебник
 tags:
  - fakeTec
  - DIY

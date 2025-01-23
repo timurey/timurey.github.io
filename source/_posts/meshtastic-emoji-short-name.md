@@ -4,7 +4,7 @@ date: 2024-12-30 13:44:20
 thumbnail: https://meshcn.net/meshtastic-emoji-short-name/postspark_export_2024-12-30_13-47-40.webp
 description: "想让你的 Meshtastic 节点从平淡无奇的字母变成可可爱爱的 emoji 吗？手把手教你如何用可爱的 Emoji 给节点命名，让你的设备在网络中脱颖而出！"
 categories:
- - 教程
+ - Учебник
 tags:
  - emoji
  - app

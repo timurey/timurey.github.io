@@ -6,7 +6,7 @@ description: "还在用 T-Deck 那个“朴素”的默认界面？试试 Meshta
 author:
   name: "朱哲 | 社区群成员"
 categories:
- - 教程
+ - Учебник
 tags:
  - 烧录
  - Lilygo

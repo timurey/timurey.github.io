@@ -6,7 +6,7 @@ description: "还在为 Meshtastic 官方 MQTT 服务器的延迟和连接不稳
 author:
   name: "朱哲"
 categories:
- - 教程
+ - Учебник
 tags:
  - MQTT
 ---

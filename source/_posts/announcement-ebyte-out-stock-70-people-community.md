@@ -4,7 +4,7 @@ date: 2024-12-10 11:31:00
 description: "本周，Meshtastic 中国社区迎来了多项令人兴奋的突破！🎉 微信交流群人数突破 70 人，多地用户数量显著增长，技术上还开发出了一套成熟的太阳能节点方案。此外，群友们的购物狂潮让性价比神器 EoRa-S3 被「买到断货」，甚至吸引厂家加入群里围观。令人期待的是，我们即将推出全新的Meshtastic 入门系列文章。"
 thumbnail: https://meshcn.net/announcement-ebyte-out-stock-70-people-community/dan-gold-80jPsacAjUs-unsplash.webp
 categories:
- - 公告
+ - Новости
 ---
 
 大家好！🎉

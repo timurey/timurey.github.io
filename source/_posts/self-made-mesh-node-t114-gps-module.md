@@ -6,7 +6,7 @@ description: "谁说好用的 GNSS 模块一定贵？看完这篇文章你会发
 author:
   name: "西安-QinlingMesh"
 categories:
- - 教程
+ - Учебник
 tags:
  - DIY
  - GPS

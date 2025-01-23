@@ -3,7 +3,7 @@ title: Meshtastic 角色全面解析：CLIENT、ROUTER、REPEATER 的最佳使�
 date: 2024-11-26 19:53:20
 description: 深入解读 Meshtastic 的各种角色，包括客户端、静音客户端、路由器、中继器、隐形客户端和追踪器，帮助用户了解每种角色的功能及其适用场景，优化网状网络的性能与稳定性。
 categories:
- - 教程
+ - Учебник
 tags:
  - ROLE
  - 角色

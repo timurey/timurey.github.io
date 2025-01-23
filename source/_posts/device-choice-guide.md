@@ -4,7 +4,7 @@ date: 2024-12-21 19:07:20
 description: 本文教你如何根据需求快速挑选适合的 Meshtastic 硬件，无论是开发板还是成品设备，详解关键特性与实用场景。新手指南一步到位，让你轻松入门离网通信，享受 Mesh 网络的乐趣与便捷！
 thumbnail: https://meshcn.net/device-choice-guide/kelly-sikkema-Uh5GWNUGgGY-unsplash.webp
 categories:
- - 教程
+ - Учебник
 tags:
  - 设备
  - 选择

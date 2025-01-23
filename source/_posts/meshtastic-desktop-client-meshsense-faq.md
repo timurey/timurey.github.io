@@ -4,7 +4,7 @@ date: 2025-01-04 14:43:20
 thumbnail: 
 description: "MeshSense 的 FAQ 中文版，涵盖功能介绍、系统要求、连接方法、设置选项以及实时演示等内容，帮助用户快速上手并深入了解这款 Meshtastic 桌面客户端。"
 categories:
- - 教程
+ - Учебник
 ---
 
 以下内容是对 MeshSense 官网常见问题解答（FAQ）的中文翻译，旨在方便 MeshCN 中文社区的读者了解这款 Meshtastic 第三方 PC 桌面端的功能和使用方法。
