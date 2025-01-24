@@ -18,12 +18,12 @@ head:
   # Значок веб-сайта
   favicon:
     ico: /images/favicon.ico
-    # small: /images/favicon-16x16.png
-    # medium: /images/favicon-32x32.png
-    large: /images/favicon-96x96.png
+    small: /images/favicon-16x16.png
+    medium: /images/favicon-32x32.png
+    # large: /images/favicon-96x96.png
     apple_touch_icon: /images/apple-touch-icon.png
     # safari_pinned_tab: /images/safari-pinned-tab.svg
-    icon_svg: /images/favicon.svg
+    icon_svg: /images/favicon.ico
     web_manifest: /images/site.webmanifest
 
   # Ссылки для обмена в социальных сетях
