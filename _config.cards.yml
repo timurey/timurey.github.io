@@ -365,7 +365,7 @@ footer:
   # Пользовательский нижний колонтитул, поддержка markdown
   custom_text: 
     - '[RSS фид](https://rumesh.timurey.ru/feed.xml) | [контакты](/contact)'
-    - '<a href="https://github.com/timurey/rumesh" rel="nofollow">GitHub</a>'
+    - '<a href="https://github.com/timurey/timurey.github.io" rel="nofollow">GitHub</a>'
 
 
 
