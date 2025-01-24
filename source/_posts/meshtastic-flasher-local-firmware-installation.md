@@ -59,8 +59,8 @@ GitHub 是全球开发者最常用的代码托管平台，Meshtastic 的固件�
 
 ### 步骤 2：解压固件文件  
 将下载的 ZIP 文件解压到电脑的某个文件夹中。解压后，你会看到多个固件文件，它们分别适用于不同型号的设备。例如：
-- `firmware-heltec-mesh-node-t114-xxx.uf2`（适用于 Heltec T114）。  
-- `firmware-CDEBYTE_EoRa-S3-xxx.zip`（适用于 Ebyte EoRa-S3）。由于曾经做过促销，[这个型号曾经是社区的宠儿](/announcement-ebyte-out-stock-70-people-community/#趣闻：Ebyte-的-EoRa-S3-被「买到断货」/)。
+- `firmware-heltec-mesh-node-t114-xxx.uf2`（适用于 Heltec T114）。 T114 在 MeshCN 社区非常流行，相信你也已经看到了很多相关文章。它是很省心的太阳能节点 Meshtastic 开发板首选。 
+- `firmware-CDEBYTE_EoRa-S3-xxx.zip`（适用于 Ebyte EoRa-S3）。由于曾经定价是同品的一半，[这个型号曾经是社区的宠儿](/announcement-ebyte-out-stock-70-people-community/#趣闻：Ebyte-的-EoRa-S3-被「买到断货」/)。
 - `firmware-t-echo-xxx.uf2`（适用于 Lilygo T-Echo）。
 - `firmware-heltec-v3-xxx.zip`（适用于 Heltec LoRa32 v3）。 
 
