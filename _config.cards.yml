@@ -385,7 +385,8 @@ search:
   field: All  # Page | Post | All
 
 # note плагин тэгов
-note: false
+note: true
+
 
 # fold Плагин для сворачивания контента
 fold: 
